@@ -58,7 +58,7 @@ g3 %>% filter(tipo== "miRNAs") %>%
 
 #Filter miRNAs with higher number of second neighbors
 miRNAS <- g3 %>% filter(tipo== "miRNAs") %>% 
-  filter(vecinos_dos >= 40) %>% 
+  filter(second_neighbors >= 40) %>% 
   pull(name)
 
 miRNAS
