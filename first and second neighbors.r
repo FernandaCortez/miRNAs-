@@ -9,7 +9,9 @@ require(ggplot2)
 setwd("~/Documentos/Proyecto/Selección de genes/Búsqueda_fármacos/Conjuntos")
 
 # Load data
+#repeat for each subtype
 basal_data <- read_csv("conjuntos_basal.csv")
+
 # basal_data <- conjuntos_basal[, -4]
 
 #Generate bipartite networks
