@@ -1,1 +1,15 @@
 #####Generate expression tables (miRNA-gene) for each subtype##############
+
+#Load package
+library(TCGAbiolinks)
+library(dplyr)
+library(readr)
+
+#Load expression matrix
+RNA <- read.table(file = 'RNAseqnormalized.tsv', sep = '\t', header = TRUE)
+mirnas <- read.table(file = 'miRNAseqNormi.tsv', sep = '\t', header = TRUE)
+
+
+#Load sample IDs
+subtypes = read.table(file = 'subtype.tsv', sep = '\t', header = TRUE)
+
