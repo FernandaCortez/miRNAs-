@@ -1,0 +1,2601 @@
+"Genes","Farmaco","miRNAs","freq"
+"CHRNB2","galantamine","hsa-mir-3667",57
+"CHRNB2","bupropion","hsa-mir-3667",57
+"CHRNB2","nicotine","hsa-mir-3667",57
+"CHRNB2","varenicline","hsa-mir-3667",57
+"KCNH2","risperidone","hsa-mir-3667",57
+"KCNH2","cimetidine","hsa-mir-3667",57
+"KCNH2","olanzapine","hsa-mir-3667",57
+"KCNH2","amiodarone","hsa-mir-3667",57
+"KCNH2","chlorpromazine","hsa-mir-3667",57
+"KCNH2","haloperidol","hsa-mir-3667",57
+"KCNH2","warfarin","hsa-mir-3667",57
+"KCNH2","antipsychotics","hsa-mir-3667",57
+"KCNH2","arsenic trioxide","hsa-mir-3667",57
+"KCNH2","hydroxyzine","hsa-mir-3667",57
+"KCNH2","methadone","hsa-mir-3667",57
+"KCNH2","quetiapine","hsa-mir-3667",57
+"KCNH2","loratadine","hsa-mir-3667",57
+"KCNH2","thioridazine","hsa-mir-3667",57
+"KCNH2","chloroquine","hsa-mir-3667",57
+"KCNH2","beta blocking agents; selective","hsa-mir-3667",57
+"KCNH2","clarithromycin","hsa-mir-3667",57
+"KCNH2","ziprasidone","hsa-mir-3667",57
+"KCNH2","trazodone","hsa-mir-3667",57
+"KCNH2","erythromycin","hsa-mir-3667",57
+"KCNH2","chlorpheniramine","hsa-mir-3667",57
+"KCNH2","lovastatin","hsa-mir-3667",57
+"KCNH2","fluoxetine","hsa-mir-3667",57
+"KCNH2","terfenadine","hsa-mir-3667",57
+"KCNH2","ibutilide","hsa-mir-3667",57
+"KCNH2","fluvoxamine","hsa-mir-3667",57
+"KCNH2","astemizole","hsa-mir-3667",57
+"KCNH2","cisapride","hsa-mir-3667",57
+"KCNH2","grepafloxacin","hsa-mir-3667",57
+"KCNH2","sertindole","hsa-mir-3667",57
+"KCNH2","moxifloxacin","hsa-mir-3667",57
+"KCNH2","telithromycin","hsa-mir-3667",57
+"KCNH2","perhexiline","hsa-mir-3667",57
+"KCNH2","droperidol","hsa-mir-3667",57
+"KCNH2","levomethadyl acetate","hsa-mir-3667",57
+"KCNH2","mibefradil","hsa-mir-3667",57
+"KCNH2","disopyramide","hsa-mir-3667",57
+"KCNH2","pimozide","hsa-mir-3667",57
+"KCNH2","sparfloxacin","hsa-mir-3667",57
+"KCNH2","procainamide","hsa-mir-3667",57
+"KCNH2","doxepin","hsa-mir-3667",57
+"KCNH2","probucol","hsa-mir-3667",57
+"KCNH2","dofetilide","hsa-mir-3667",57
+"KCNH2","quinidine","hsa-mir-3667",57
+"KCNH2","bepridil","hsa-mir-3667",57
+"KCNH2","domperidone","hsa-mir-3667",57
+"KCNH2","halofantrine","hsa-mir-3667",57
+"KCNH2","mesoridazine","hsa-mir-3667",57
+"KCNH2","pentamidine","hsa-mir-3667",57
+"KCNH2","sotalol","hsa-mir-3667",57
+"KCNH2","antiarrhythmics; class i and iii","hsa-mir-3667",57
+"KCNH2","mexiletine","hsa-mir-3667",57
+"KCNH2","silodosin","hsa-mir-3667",57
+"AKT1","risperidone","hsa-mir-17",49
+"AKT1","cisplatin","hsa-mir-17",49
+"AKT1","gemcitabine","hsa-mir-17",49
+"AKT1","doxorubicin","hsa-mir-17",49
+"AKT1","cyclosporine","hsa-mir-17",49
+"AKT1","pioglitazone","hsa-mir-17",49
+"AKT1","rosiglitazone","hsa-mir-17",49
+"AKT1","tacrolimus","hsa-mir-17",49
+"AKT1","betamethasone","hsa-mir-17",49
+"AKT1","tamoxifen","hsa-mir-17",49
+"AKT1","arsenic trioxide","hsa-mir-17",49
+"AKT1","lapatinib","hsa-mir-17",49
+"AKT1","gefitinib","hsa-mir-17",49
+"AKT1","sirolimus","hsa-mir-17",49
+"AKT1","sorafenib","hsa-mir-17",49
+"AKT1","fluticasone propionate","hsa-mir-17",49
+"AKT1","budesonide","hsa-mir-17",49
+"AKT1","celecoxib","hsa-mir-17",49
+"AKT1","imatinib","hsa-mir-17",49
+"AKT1","adenosine monophosphate","hsa-mir-17",49
+"AKT1","adenosine triphosphate","hsa-mir-17",49
+"AKT1","glutathione","hsa-mir-17",49
+"AKT1","lecithin","hsa-mir-17",49
+"AKT1","l-arginine","hsa-mir-17",49
+"AKT1","l-citrulline","hsa-mir-17",49
+"AKT1","nitric oxide","hsa-mir-17",49
+"AKT1","glucose","hsa-mir-17",49
+"AKT1","nicotine","hsa-mir-17",49
+"AKT1","prednisone","hsa-mir-17",49
+"AKT1","xenobiotics","hsa-mir-17",49
+"AKT1","dexamethasone","hsa-mir-17",49
+"AKT1","choline","hsa-mir-17",49
+"AKT1","tetrahydrobiopterin","hsa-mir-17",49
+"AKT1","glucocorticoids","hsa-mir-17",49
+"AKT1","hydrocortisone","hsa-mir-17",49
+"AKT1","methylprednisolone","hsa-mir-17",49
+"AKT1","mometasone","hsa-mir-17",49
+"AKT1","paramethasone","hsa-mir-17",49
+"AKT1","prednisolone","hsa-mir-17",49
+"AKT1","rimexolone","hsa-mir-17",49
+"AKT1","triamcinolone","hsa-mir-17",49
+"AKT1","beclomethasone","hsa-mir-17",49
+"AKT1","ciclesonide","hsa-mir-17",49
+"AKT1","desonide","hsa-mir-17",49
+"AKT1","flunisolide","hsa-mir-17",49
+"AKT1","pp2","hsa-mir-17",49
+"AKT1","exenatide","hsa-mir-17",49
+"AKT1","perifosine","hsa-mir-17",49
+"DALRD3","mycophenolic acid","hsa-mir-17",49
+"AKT1","risperidone","hsa-mir-320d-1",48
+"AKT1","cisplatin","hsa-mir-320d-1",48
+"AKT1","gemcitabine","hsa-mir-320d-1",48
+"AKT1","doxorubicin","hsa-mir-320d-1",48
+"AKT1","cyclosporine","hsa-mir-320d-1",48
+"AKT1","pioglitazone","hsa-mir-320d-1",48
+"AKT1","rosiglitazone","hsa-mir-320d-1",48
+"AKT1","tacrolimus","hsa-mir-320d-1",48
+"AKT1","betamethasone","hsa-mir-320d-1",48
+"AKT1","tamoxifen","hsa-mir-320d-1",48
+"AKT1","arsenic trioxide","hsa-mir-320d-1",48
+"AKT1","lapatinib","hsa-mir-320d-1",48
+"AKT1","gefitinib","hsa-mir-320d-1",48
+"AKT1","sirolimus","hsa-mir-320d-1",48
+"AKT1","sorafenib","hsa-mir-320d-1",48
+"AKT1","fluticasone propionate","hsa-mir-320d-1",48
+"AKT1","budesonide","hsa-mir-320d-1",48
+"AKT1","celecoxib","hsa-mir-320d-1",48
+"AKT1","imatinib","hsa-mir-320d-1",48
+"AKT1","adenosine monophosphate","hsa-mir-320d-1",48
+"AKT1","adenosine triphosphate","hsa-mir-320d-1",48
+"AKT1","glutathione","hsa-mir-320d-1",48
+"AKT1","lecithin","hsa-mir-320d-1",48
+"AKT1","l-arginine","hsa-mir-320d-1",48
+"AKT1","l-citrulline","hsa-mir-320d-1",48
+"AKT1","nitric oxide","hsa-mir-320d-1",48
+"AKT1","glucose","hsa-mir-320d-1",48
+"AKT1","nicotine","hsa-mir-320d-1",48
+"AKT1","prednisone","hsa-mir-320d-1",48
+"AKT1","xenobiotics","hsa-mir-320d-1",48
+"AKT1","dexamethasone","hsa-mir-320d-1",48
+"AKT1","choline","hsa-mir-320d-1",48
+"AKT1","tetrahydrobiopterin","hsa-mir-320d-1",48
+"AKT1","glucocorticoids","hsa-mir-320d-1",48
+"AKT1","hydrocortisone","hsa-mir-320d-1",48
+"AKT1","methylprednisolone","hsa-mir-320d-1",48
+"AKT1","mometasone","hsa-mir-320d-1",48
+"AKT1","paramethasone","hsa-mir-320d-1",48
+"AKT1","prednisolone","hsa-mir-320d-1",48
+"AKT1","rimexolone","hsa-mir-320d-1",48
+"AKT1","triamcinolone","hsa-mir-320d-1",48
+"AKT1","beclomethasone","hsa-mir-320d-1",48
+"AKT1","ciclesonide","hsa-mir-320d-1",48
+"AKT1","desonide","hsa-mir-320d-1",48
+"AKT1","flunisolide","hsa-mir-320d-1",48
+"AKT1","pp2","hsa-mir-320d-1",48
+"AKT1","exenatide","hsa-mir-320d-1",48
+"AKT1","perifosine","hsa-mir-320d-1",48
+"ABCC2","cisplatin","hsa-mir-6826",44
+"ABCC2","methotrexate","hsa-mir-6826",44
+"ABCC2","daunorubicin","hsa-mir-6826",44
+"ABCC2","doxorubicin","hsa-mir-6826",44
+"ABCC2","paclitaxel","hsa-mir-6826",44
+"ABCC2","cytarabine","hsa-mir-6826",44
+"ABCC2","cyclosporine","hsa-mir-6826",44
+"ABCC2","digoxin","hsa-mir-6826",44
+"ABCC2","carbamazepine","hsa-mir-6826",44
+"ABCC2","tacrolimus","hsa-mir-6826",44
+"ABCC2","irinotecan","hsa-mir-6826",44
+"ABCC2","sn-38","hsa-mir-6826",44
+"ABCC2","tamoxifen","hsa-mir-6826",44
+"ABCC2","docetaxel","hsa-mir-6826",44
+"ABCC2","lopinavir","hsa-mir-6826",44
+"ABCC2","sirolimus","hsa-mir-6826",44
+"ABCC2","tenofovir","hsa-mir-6826",44
+"ABCC2","mycophenolic acid","hsa-mir-6826",44
+"ABCC2","mycophenolate mofetil","hsa-mir-6826",44
+"ABCC2","diclofenac","hsa-mir-6826",44
+"ABCC2","pravastatin","hsa-mir-6826",44
+"ABCC2","imatinib","hsa-mir-6826",44
+"ABCC2","pyrimidine analogues","hsa-mir-6826",44
+"ABCC2","etoposide","hsa-mir-6826",44
+"ABCC2","mitoxantrone","hsa-mir-6826",44
+"ABCC2","vincristine","hsa-mir-6826",44
+"ABCC2","ketoconazole","hsa-mir-6826",44
+"ABCC2","miconazole","hsa-mir-6826",44
+"ABCC2","ezetimibe","hsa-mir-6826",44
+"ABCC2","folic acid","hsa-mir-6826",44
+"ABCC2","indinavir","hsa-mir-6826",44
+"ABCC2","xenobiotics","hsa-mir-6826",44
+"ABCC2","antineoplastic agents","hsa-mir-6826",44
+"ABCC2","rifampin","hsa-mir-6826",44
+"ABCC2","carboplatin","hsa-mir-6826",44
+"ABCC2","azithromycin","hsa-mir-6826",44
+"ABCC2","talinolol","hsa-mir-6826",44
+"ABCC2","5-fluoroucil","hsa-mir-6826",44
+"ABCC2","l-ohp","hsa-mir-6826",44
+"EEF2","sirolimus","hsa-mir-6826",44
+"FASLG","fluorouracil","hsa-mir-6826",44
+"FASLG","tacrolimus","hsa-mir-6826",44
+"FASLG","glutathione","hsa-mir-6826",44
+"FASLG","antineoplastic agents","hsa-mir-6826",44
+"CAMK4","cyclosporine","hsa-mir-6818",43
+"CAMK4","tacrolimus","hsa-mir-6818",43
+"GNAS","antidepressants","hsa-mir-6818",43
+"GNAS","cisplatin","hsa-mir-6818",43
+"GNAS","fluorouracil","hsa-mir-6818",43
+"GNAS","sibutramine","hsa-mir-6818",43
+"GNAS","betamethasone","hsa-mir-6818",43
+"GNAS","antihypertensives","hsa-mir-6818",43
+"GNAS","beta blocking agents","hsa-mir-6818",43
+"GNAS","fluticasone propionate","hsa-mir-6818",43
+"GNAS","progesterone","hsa-mir-6818",43
+"GNAS","budesonide","hsa-mir-6818",43
+"GNAS","dopamine","hsa-mir-6818",43
+"GNAS","adenosine monophosphate","hsa-mir-6818",43
+"GNAS","adenosine triphosphate","hsa-mir-6818",43
+"GNAS","l-arginine","hsa-mir-6818",43
+"GNAS","l-citrulline","hsa-mir-6818",43
+"GNAS","nitric oxide","hsa-mir-6818",43
+"GNAS","glucose","hsa-mir-6818",43
+"GNAS","salmeterol","hsa-mir-6818",43
+"GNAS","prednisone","hsa-mir-6818",43
+"GNAS","isoproterenol","hsa-mir-6818",43
+"GNAS","dexamethasone","hsa-mir-6818",43
+"GNAS","glucocorticoids","hsa-mir-6818",43
+"GNAS","hydrocortisone","hsa-mir-6818",43
+"GNAS","methylprednisolone","hsa-mir-6818",43
+"GNAS","mometasone","hsa-mir-6818",43
+"GNAS","paramethasone","hsa-mir-6818",43
+"GNAS","prednisolone","hsa-mir-6818",43
+"GNAS","rimexolone","hsa-mir-6818",43
+"GNAS","triamcinolone","hsa-mir-6818",43
+"GNAS","beclomethasone","hsa-mir-6818",43
+"GNAS","ciclesonide","hsa-mir-6818",43
+"GNAS","desonide","hsa-mir-6818",43
+"GNAS","flunisolide","hsa-mir-6818",43
+"GNAS","alprostadil","hsa-mir-6818",43
+"GNAS","epinephrine","hsa-mir-6818",43
+"GNAS","fluticasone/salmeterol","hsa-mir-6818",43
+"RHOA","hmg coa reductase inhibitors","hsa-mir-6818",43
+"RHOA","lecithin","hsa-mir-6818",43
+"RHOA","l-arginine","hsa-mir-6818",43
+"RHOA","nitric oxide","hsa-mir-6818",43
+"RHOA","choline","hsa-mir-6818",43
+"CCND1","metformin","hsa-mir-335",38
+"CCND1","lapatinib","hsa-mir-335",38
+"CCND1","gefitinib","hsa-mir-335",38
+"CCND1","celecoxib","hsa-mir-335",38
+"CCND1","letrozole","hsa-mir-335",38
+"CCND1","cetuximab","hsa-mir-335",38
+"CCND1","exenatide","hsa-mir-335",38
+"CCND1","teriparatide","hsa-mir-335",38
+"CCND1","genistein","hsa-mir-335",38
+"CCND1","nutlin","hsa-mir-335",38
+"DNM2","choline","hsa-mir-4442",38
+"KCNJ5","amiodarone","hsa-mir-486-2",38
+"KCNJ5","chlorpromazine","hsa-mir-486-2",38
+"KCNJ5","haloperidol","hsa-mir-486-2",38
+"KCNJ5","antipsychotics","hsa-mir-486-2",38
+"KCNJ5","arsenic trioxide","hsa-mir-486-2",38
+"KCNJ5","methadone","hsa-mir-486-2",38
+"KCNJ5","thioridazine","hsa-mir-486-2",38
+"KCNJ5","chloroquine","hsa-mir-486-2",38
+"KCNJ5","clarithromycin","hsa-mir-486-2",38
+"KCNJ5","erythromycin","hsa-mir-486-2",38
+"KCNJ5","terfenadine","hsa-mir-486-2",38
+"KCNJ5","ibutilide","hsa-mir-486-2",38
+"KCNJ5","astemizole","hsa-mir-486-2",38
+"KCNJ5","cisapride","hsa-mir-486-2",38
+"KCNJ5","droperidol","hsa-mir-486-2",38
+"KCNJ5","levomethadyl acetate","hsa-mir-486-2",38
+"KCNJ5","disopyramide","hsa-mir-486-2",38
+"KCNJ5","pimozide","hsa-mir-486-2",38
+"KCNJ5","sparfloxacin","hsa-mir-486-2",38
+"KCNJ5","procainamide","hsa-mir-486-2",38
+"KCNJ5","dofetilide","hsa-mir-486-2",38
+"KCNJ5","quinidine","hsa-mir-486-2",38
+"KCNJ5","bepridil","hsa-mir-486-2",38
+"KCNJ5","domperidone","hsa-mir-486-2",38
+"KCNJ5","halofantrine","hsa-mir-486-2",38
+"KCNJ5","mesoridazine","hsa-mir-486-2",38
+"KCNJ5","pentamidine","hsa-mir-486-2",38
+"KCNJ5","sotalol","hsa-mir-486-2",38
+"KCNJ5","antiarrhythmics; class i and iii","hsa-mir-486-2",38
+"PIK3CA","cyclosporine","hsa-mir-4442",38
+"PIK3CA","tacrolimus","hsa-mir-4442",38
+"PIK3CA","betamethasone","hsa-mir-4442",38
+"PIK3CA","docetaxel","hsa-mir-4442",38
+"PIK3CA","sirolimus","hsa-mir-4442",38
+"PIK3CA","fluticasone propionate","hsa-mir-4442",38
+"PIK3CA","budesonide","hsa-mir-4442",38
+"PIK3CA","imatinib","hsa-mir-4442",38
+"PIK3CA","adenosine monophosphate","hsa-mir-4442",38
+"PIK3CA","adenosine triphosphate","hsa-mir-4442",38
+"PIK3CA","lecithin","hsa-mir-4442",38
+"PIK3CA","l-arginine","hsa-mir-4442",38
+"PIK3CA","l-citrulline","hsa-mir-4442",38
+"PIK3CA","nitric oxide","hsa-mir-4442",38
+"PIK3CA","prednisone","hsa-mir-4442",38
+"PIK3CA","dexamethasone","hsa-mir-4442",38
+"PIK3CA","choline","hsa-mir-4442",38
+"PIK3CA","glucocorticoids","hsa-mir-4442",38
+"PIK3CA","hydrocortisone","hsa-mir-4442",38
+"PIK3CA","methylprednisolone","hsa-mir-4442",38
+"PIK3CA","mometasone","hsa-mir-4442",38
+"PIK3CA","paramethasone","hsa-mir-4442",38
+"PIK3CA","prednisolone","hsa-mir-4442",38
+"PIK3CA","rimexolone","hsa-mir-4442",38
+"PIK3CA","triamcinolone","hsa-mir-4442",38
+"PIK3CA","beclomethasone","hsa-mir-4442",38
+"PIK3CA","ciclesonide","hsa-mir-4442",38
+"PIK3CA","desonide","hsa-mir-4442",38
+"PIK3CA","flunisolide","hsa-mir-4442",38
+"PIK3CA","pp2","hsa-mir-4442",38
+"PIK3CA","exenatide","hsa-mir-4442",38
+"PLD2","tacrolimus","hsa-mir-4442",38
+"PLD2","dopamine","hsa-mir-4442",38
+"PLD2","l-arginine","hsa-mir-4442",38
+"PLD2","nitric oxide","hsa-mir-4442",38
+"PLD2","choline","hsa-mir-4442",38
+"PLD2","colchicine","hsa-mir-4442",38
+"PNOC","conjugated estrogens","hsa-mir-486-2",38
+"PNOC","estradiol","hsa-mir-486-2",38
+"PNOC","estrone","hsa-mir-486-2",38
+"PNOC","estrogens","hsa-mir-486-2",38
+"PNOC","chlorotrianisene","hsa-mir-486-2",38
+"PNOC","dienestrol","hsa-mir-486-2",38
+"PNOC","diethylstilbestrol","hsa-mir-486-2",38
+"PNOC","ethinyl estradiol","hsa-mir-486-2",38
+"SNTA1","amiodarone","hsa-mir-335",38
+"SNTA1","chlorpromazine","hsa-mir-335",38
+"SNTA1","haloperidol","hsa-mir-335",38
+"SNTA1","antipsychotics","hsa-mir-335",38
+"SNTA1","arsenic trioxide","hsa-mir-335",38
+"SNTA1","methadone","hsa-mir-335",38
+"SNTA1","thioridazine","hsa-mir-335",38
+"SNTA1","chloroquine","hsa-mir-335",38
+"SNTA1","clarithromycin","hsa-mir-335",38
+"SNTA1","erythromycin","hsa-mir-335",38
+"SNTA1","terfenadine","hsa-mir-335",38
+"SNTA1","ibutilide","hsa-mir-335",38
+"SNTA1","astemizole","hsa-mir-335",38
+"SNTA1","cisapride","hsa-mir-335",38
+"SNTA1","droperidol","hsa-mir-335",38
+"SNTA1","levomethadyl acetate","hsa-mir-335",38
+"SNTA1","disopyramide","hsa-mir-335",38
+"SNTA1","pimozide","hsa-mir-335",38
+"SNTA1","sparfloxacin","hsa-mir-335",38
+"SNTA1","procainamide","hsa-mir-335",38
+"SNTA1","dofetilide","hsa-mir-335",38
+"SNTA1","quinidine","hsa-mir-335",38
+"SNTA1","bepridil","hsa-mir-335",38
+"SNTA1","domperidone","hsa-mir-335",38
+"SNTA1","halofantrine","hsa-mir-335",38
+"SNTA1","mesoridazine","hsa-mir-335",38
+"SNTA1","pentamidine","hsa-mir-335",38
+"SNTA1","sotalol","hsa-mir-335",38
+"TSHR","choline","hsa-mir-486-2",38
+"FKBP5","antidepressants","hsa-mir-134",36
+"FKBP5","citalopram","hsa-mir-134",36
+"FKBP5","venlafaxine","hsa-mir-134",36
+"FKBP5","desipramine","hsa-mir-134",36
+"FKBP5","mirtazapine","hsa-mir-134",36
+"FKBP5","fluoxetine","hsa-mir-134",36
+"FKBP5","prednisolone","hsa-mir-134",36
+"GNB1","betamethasone","hsa-mir-134",36
+"GNB1","aspirin","hsa-mir-134",36
+"GNB1","fluticasone propionate","hsa-mir-134",36
+"GNB1","progesterone","hsa-mir-134",36
+"GNB1","budesonide","hsa-mir-134",36
+"GNB1","dopamine","hsa-mir-134",36
+"GNB1","adenosine monophosphate","hsa-mir-134",36
+"GNB1","adenosine triphosphate","hsa-mir-134",36
+"GNB1","lecithin","hsa-mir-134",36
+"GNB1","l-arginine","hsa-mir-134",36
+"GNB1","l-citrulline","hsa-mir-134",36
+"GNB1","nitric oxide","hsa-mir-134",36
+"GNB1","glucose","hsa-mir-134",36
+"GNB1","prednisone","hsa-mir-134",36
+"GNB1","dexamethasone","hsa-mir-134",36
+"GNB1","glucocorticoids","hsa-mir-134",36
+"GNB1","hydrocortisone","hsa-mir-134",36
+"GNB1","methylprednisolone","hsa-mir-134",36
+"GNB1","mometasone","hsa-mir-134",36
+"GNB1","paramethasone","hsa-mir-134",36
+"GNB1","prednisolone","hsa-mir-134",36
+"GNB1","rimexolone","hsa-mir-134",36
+"GNB1","triamcinolone","hsa-mir-134",36
+"GNB1","beclomethasone","hsa-mir-134",36
+"GNB1","ciclesonide","hsa-mir-134",36
+"GNB1","desonide","hsa-mir-134",36
+"GNB1","flunisolide","hsa-mir-134",36
+"UPP2","fluorouracil","hsa-mir-134",36
+"UPP2","capecitabine","hsa-mir-134",36
+"ANK2","amiodarone","hsa-mir-149",31
+"ANK2","chlorpromazine","hsa-mir-149",31
+"ANK2","haloperidol","hsa-mir-149",31
+"ANK2","antipsychotics","hsa-mir-149",31
+"ANK2","arsenic trioxide","hsa-mir-149",31
+"ANK2","methadone","hsa-mir-149",31
+"ANK2","thioridazine","hsa-mir-149",31
+"ANK2","chloroquine","hsa-mir-149",31
+"ANK2","clarithromycin","hsa-mir-149",31
+"ANK2","erythromycin","hsa-mir-149",31
+"ANK2","terfenadine","hsa-mir-149",31
+"ANK2","ibutilide","hsa-mir-149",31
+"ANK2","astemizole","hsa-mir-149",31
+"ANK2","cisapride","hsa-mir-149",31
+"ANK2","droperidol","hsa-mir-149",31
+"ANK2","levomethadyl acetate","hsa-mir-149",31
+"ANK2","disopyramide","hsa-mir-149",31
+"ANK2","pimozide","hsa-mir-149",31
+"ANK2","sparfloxacin","hsa-mir-149",31
+"ANK2","procainamide","hsa-mir-149",31
+"ANK2","dofetilide","hsa-mir-149",31
+"ANK2","quinidine","hsa-mir-149",31
+"ANK2","bepridil","hsa-mir-149",31
+"ANK2","domperidone","hsa-mir-149",31
+"ANK2","halofantrine","hsa-mir-149",31
+"ANK2","mesoridazine","hsa-mir-149",31
+"ANK2","pentamidine","hsa-mir-149",31
+"ANK2","sotalol","hsa-mir-149",31
+"ANK2","antiarrhythmics; class i and iii","hsa-mir-149",31
+"CREB1","antidepressants","hsa-mir-656",31
+"CREB1","methotrexate","hsa-mir-656",31
+"CREB1","valinomycin","hsa-mir-656",31
+"CREB1","cyclosporine","hsa-mir-656",31
+"CREB1","citalopram","hsa-mir-656",31
+"CREB1","sertraline","hsa-mir-656",31
+"CREB1","adenosine triphosphate","hsa-mir-656",31
+"CREB1","glucose","hsa-mir-656",31
+"CREB1","pyruvic acid","hsa-mir-656",31
+"CREB1","fluoxetine","hsa-mir-656",31
+"CREB1","paroxetine","hsa-mir-656",31
+"CREB1","fluvoxamine","hsa-mir-656",31
+"CREB1","mercaptopurine","hsa-mir-656",31
+"CREB1","lithium","hsa-mir-656",31
+"CREB1","exenatide","hsa-mir-656",31
+"CREB1","teriparatide","hsa-mir-656",31
+"FRS2","l-arginine","hsa-mir-149",31
+"FRS2","nitric oxide","hsa-mir-149",31
+"SLC7A1","adenosine monophosphate","hsa-mir-656",31
+"SLC7A1","l-arginine","hsa-mir-656",31
+"SLC7A1","l-citrulline","hsa-mir-656",31
+"SLC7A1","nitric oxide","hsa-mir-656",31
+"SLC7A1","glycine","hsa-mir-656",31
+"SLC7A1","l-serine","hsa-mir-656",31
+"SLC7A1","l-proline","hsa-mir-656",31
+"SLC7A1","l-tyrosine","hsa-mir-656",31
+"SLC7A1","l-valine","hsa-mir-656",31
+"SLC7A1","taurine","hsa-mir-656",31
+"SLC7A1","l-alanine","hsa-mir-656",31
+"SLC7A1","l-cysteine","hsa-mir-656",31
+"SLC7A1","l-leucine","hsa-mir-656",31
+"SLC7A1","l-lysine","hsa-mir-656",31
+"SLC7A1","l-tryptophan","hsa-mir-656",31
+"KCNJ2","amiodarone","hsa-mir-4444-2",29
+"KCNJ2","chlorpromazine","hsa-mir-4444-2",29
+"KCNJ2","haloperidol","hsa-mir-4444-2",29
+"KCNJ2","antipsychotics","hsa-mir-4444-2",29
+"KCNJ2","arsenic trioxide","hsa-mir-4444-2",29
+"KCNJ2","methadone","hsa-mir-4444-2",29
+"KCNJ2","thioridazine","hsa-mir-4444-2",29
+"KCNJ2","chloroquine","hsa-mir-4444-2",29
+"KCNJ2","clarithromycin","hsa-mir-4444-2",29
+"KCNJ2","erythromycin","hsa-mir-4444-2",29
+"KCNJ2","terfenadine","hsa-mir-4444-2",29
+"KCNJ2","ibutilide","hsa-mir-4444-2",29
+"KCNJ2","astemizole","hsa-mir-4444-2",29
+"KCNJ2","cisapride","hsa-mir-4444-2",29
+"KCNJ2","droperidol","hsa-mir-4444-2",29
+"KCNJ2","levomethadyl acetate","hsa-mir-4444-2",29
+"KCNJ2","disopyramide","hsa-mir-4444-2",29
+"KCNJ2","pimozide","hsa-mir-4444-2",29
+"KCNJ2","sparfloxacin","hsa-mir-4444-2",29
+"KCNJ2","procainamide","hsa-mir-4444-2",29
+"KCNJ2","dofetilide","hsa-mir-4444-2",29
+"KCNJ2","quinidine","hsa-mir-4444-2",29
+"KCNJ2","bepridil","hsa-mir-4444-2",29
+"KCNJ2","domperidone","hsa-mir-4444-2",29
+"KCNJ2","halofantrine","hsa-mir-4444-2",29
+"KCNJ2","mesoridazine","hsa-mir-4444-2",29
+"KCNJ2","pentamidine","hsa-mir-4444-2",29
+"KCNJ2","sotalol","hsa-mir-4444-2",29
+"KCNJ2","antiarrhythmics; class i and iii","hsa-mir-4444-2",29
+"ELN","glucocorticoids","hsa-mir-26a-1",26
+"GTF2A1","conjugated estrogens","hsa-mir-4661",26
+"GTF2A1","estradiol","hsa-mir-4661",26
+"GTF2A1","betamethasone","hsa-mir-4661",26
+"GTF2A1","estrone","hsa-mir-4661",26
+"GTF2A1","fluticasone propionate","hsa-mir-4661",26
+"GTF2A1","estrogens","hsa-mir-4661",26
+"GTF2A1","budesonide","hsa-mir-4661",26
+"GTF2A1","chlorotrianisene","hsa-mir-4661",26
+"GTF2A1","dienestrol","hsa-mir-4661",26
+"GTF2A1","diethylstilbestrol","hsa-mir-4661",26
+"GTF2A1","ethinyl estradiol","hsa-mir-4661",26
+"GTF2A1","prednisone","hsa-mir-4661",26
+"GTF2A1","dexamethasone","hsa-mir-4661",26
+"GTF2A1","glucocorticoids","hsa-mir-4661",26
+"GTF2A1","hydrocortisone","hsa-mir-4661",26
+"GTF2A1","methylprednisolone","hsa-mir-4661",26
+"GTF2A1","mometasone","hsa-mir-4661",26
+"GTF2A1","paramethasone","hsa-mir-4661",26
+"GTF2A1","prednisolone","hsa-mir-4661",26
+"GTF2A1","rimexolone","hsa-mir-4661",26
+"GTF2A1","triamcinolone","hsa-mir-4661",26
+"GTF2A1","beclomethasone","hsa-mir-4661",26
+"GTF2A1","ciclesonide","hsa-mir-4661",26
+"GTF2A1","desonide","hsa-mir-4661",26
+"GTF2A1","flunisolide","hsa-mir-4661",26
+"PRKAB1","metformin","hsa-mir-26a-1",26
+"PRKAB1","pioglitazone","hsa-mir-26a-1",26
+"PRKAB1","rosiglitazone","hsa-mir-26a-1",26
+"PRKAB1","sirolimus","hsa-mir-26a-1",26
+"PRKAB1","adenosine monophosphate","hsa-mir-26a-1",26
+"PRKAB1","adenosine triphosphate","hsa-mir-26a-1",26
+"PRKAB1","glucose","hsa-mir-26a-1",26
+"RELA","cyclosporine","hsa-mir-92b",26
+"RELA","tacrolimus","hsa-mir-92b",26
+"RELA","betamethasone","hsa-mir-92b",26
+"RELA","fluticasone propionate","hsa-mir-92b",26
+"RELA","budesonide","hsa-mir-92b",26
+"RELA","imiquimod","hsa-mir-92b",26
+"RELA","glutathione","hsa-mir-92b",26
+"RELA","l-arginine","hsa-mir-92b",26
+"RELA","l-citrulline","hsa-mir-92b",26
+"RELA","nitric oxide","hsa-mir-92b",26
+"RELA","nifedipine","hsa-mir-92b",26
+"RELA","prednisone","hsa-mir-92b",26
+"RELA","dexamethasone","hsa-mir-92b",26
+"RELA","choline","hsa-mir-92b",26
+"RELA","glucocorticoids","hsa-mir-92b",26
+"RELA","hydrocortisone","hsa-mir-92b",26
+"RELA","methylprednisolone","hsa-mir-92b",26
+"RELA","mometasone","hsa-mir-92b",26
+"RELA","paramethasone","hsa-mir-92b",26
+"RELA","prednisolone","hsa-mir-92b",26
+"RELA","rimexolone","hsa-mir-92b",26
+"RELA","triamcinolone","hsa-mir-92b",26
+"RELA","beclomethasone","hsa-mir-92b",26
+"RELA","ciclesonide","hsa-mir-92b",26
+"RELA","desonide","hsa-mir-92b",26
+"RELA","flunisolide","hsa-mir-92b",26
+"SMAD2","nitric oxide","hsa-mir-4661",26
+"SMARCC1","betamethasone","hsa-mir-26a-1",26
+"SMARCC1","fluticasone propionate","hsa-mir-26a-1",26
+"SMARCC1","budesonide","hsa-mir-26a-1",26
+"SMARCC1","prednisone","hsa-mir-26a-1",26
+"SMARCC1","dexamethasone","hsa-mir-26a-1",26
+"SMARCC1","glucocorticoids","hsa-mir-26a-1",26
+"SMARCC1","hydrocortisone","hsa-mir-26a-1",26
+"SMARCC1","methylprednisolone","hsa-mir-26a-1",26
+"SMARCC1","mometasone","hsa-mir-26a-1",26
+"SMARCC1","paramethasone","hsa-mir-26a-1",26
+"SMARCC1","prednisolone","hsa-mir-26a-1",26
+"SMARCC1","rimexolone","hsa-mir-26a-1",26
+"SMARCC1","triamcinolone","hsa-mir-26a-1",26
+"SMARCC1","beclomethasone","hsa-mir-26a-1",26
+"SMARCC1","ciclesonide","hsa-mir-26a-1",26
+"SMARCC1","desonide","hsa-mir-26a-1",26
+"SMARCC1","flunisolide","hsa-mir-26a-1",26
+"SV2A","levetiracetam","hsa-mir-26a-1",26
+"BCL2","cisplatin","hsa-mir-505",25
+"BCL2","fluorouracil","hsa-mir-505",25
+"BCL2","gemcitabine","hsa-mir-505",25
+"BCL2","daunorubicin","hsa-mir-505",25
+"BCL2","doxorubicin","hsa-mir-505",25
+"BCL2","paclitaxel","hsa-mir-505",25
+"BCL2","cytarabine","hsa-mir-505",25
+"BCL2","cyclosporine","hsa-mir-505",25
+"BCL2","cyclophosphamide","hsa-mir-505",25
+"BCL2","tacrolimus","hsa-mir-505",25
+"BCL2","tamoxifen","hsa-mir-505",25
+"BCL2","docetaxel","hsa-mir-505",25
+"BCL2","tretinoin","hsa-mir-505",25
+"BCL2","imatinib","hsa-mir-505",25
+"BCL2","busulfan","hsa-mir-505",25
+"BCL2","etoposide","hsa-mir-505",25
+"BCL2","vincristine","hsa-mir-505",25
+"BCL2","glutathione","hsa-mir-505",25
+"BCL2","mitomycin","hsa-mir-505",25
+"BCL2","topotecan","hsa-mir-505",25
+"BCL2","flavopiridol","hsa-mir-505",25
+"BCL2","fludarabine","hsa-mir-505",25
+"BCL2","teriparatide","hsa-mir-505",25
+"BCL2","5-fluoroucil","hsa-mir-505",25
+"BCL2","l-ohp","hsa-mir-505",25
+"DCTD","gemcitabine","hsa-mir-486-1",25
+"DCTD","cytarabine","hsa-mir-486-1",25
+"DCTD","capecitabine","hsa-mir-486-1",25
+"DCTD","antineoplastic agents","hsa-mir-486-1",25
+"DCTD","l-glutamine","hsa-mir-486-1",25
+"GBF1","methotrexate","hsa-mir-486-1",25
+"GBF1","mercaptopurine","hsa-mir-486-1",25
+"GBF1","choline","hsa-mir-486-1",25
+"HOMER1","antidepressants","hsa-mir-3200",25
+"HOMER1","cocaine","hsa-mir-3200",25
+"KALRN","choline","hsa-mir-486-1",25
+"PDE3B","adenosine monophosphate","hsa-mir-486-1",25
+"PDE3B","l-arginine","hsa-mir-486-1",25
+"PDE3B","l-citrulline","hsa-mir-486-1",25
+"PDE3B","nitric oxide","hsa-mir-486-1",25
+"POLA1","ibuprofen","hsa-mir-3200",25
+"PRKCD","tacrolimus","hsa-mir-3200",25
+"PRKCD","dopamine","hsa-mir-3200",25
+"PRKCD","glutathione","hsa-mir-3200",25
+"PRKCD","l-arginine","hsa-mir-3200",25
+"PRKCD","nitric oxide","hsa-mir-3200",25
+"PRKCD","colchicine","hsa-mir-3200",25
+"RALBP1","methotrexate","hsa-mir-486-1",25
+"RALBP1","doxorubicin","hsa-mir-486-1",25
+"RALBP1","carbamazepine","hsa-mir-486-1",25
+"RALBP1","phenytoin","hsa-mir-486-1",25
+"RALBP1","lecithin","hsa-mir-486-1",25
+"RALBP1","mercaptopurine","hsa-mir-486-1",25
+"SLC29A1","cisplatin","hsa-mir-3200",25
+"SLC29A1","fluorouracil","hsa-mir-3200",25
+"SLC29A1","gemcitabine","hsa-mir-3200",25
+"SLC29A1","cytarabine","hsa-mir-3200",25
+"SLC29A1","capecitabine","hsa-mir-3200",25
+"SLC29A1","mercaptopurine","hsa-mir-3200",25
+"SLC29A1","azathioprine","hsa-mir-3200",25
+"SLC29A1","dipyridamole","hsa-mir-3200",25
+"SLC29A1","ribavirin","hsa-mir-3200",25
+"SLC29A1","dilazep","hsa-mir-3200",25
+"SLC29A1","tubercidin","hsa-mir-3200",25
+"SLC29A1","floxuridine","hsa-mir-3200",25
+"SLC29A1","nucleosides and nucleotides excl. reverse transcriptase inhibitors","hsa-mir-3200",25
+"SLC29A1","cladribine","hsa-mir-3200",25
+"SLC29A1","fludarabine","hsa-mir-3200",25
+"SLC29A1","clofarabine","hsa-mir-3200",25
+"TRPV4","adenosine triphosphate","hsa-mir-486-1",25
+"TRPV4","l-arginine","hsa-mir-486-1",25
+"TRPV4","l-citrulline","hsa-mir-486-1",25
+"TRPV4","nitric oxide","hsa-mir-486-1",25
+"XPA","cisplatin","hsa-mir-486-1",25
+"XPA","antineoplastic agents","hsa-mir-486-1",25
+"AGTR1","aliskiren","hsa-mir-362",24
+"AGTR1","enalapril","hsa-mir-362",24
+"AGTR1","antihypertensives","hsa-mir-362",24
+"AGTR1","pravastatin","hsa-mir-362",24
+"AGTR1","angiotensin ii antagonists","hsa-mir-362",24
+"AGTR1","ace inhibitors; plain","hsa-mir-362",24
+"AGTR1","l-arginine","hsa-mir-362",24
+"AGTR1","nitric oxide","hsa-mir-362",24
+"AGTR1","losartan","hsa-mir-362",24
+"AGTR1","atenolol","hsa-mir-362",24
+"AGTR1","torcetrapib","hsa-mir-362",24
+"AGTR1","captopril","hsa-mir-362",24
+"AGTR1","fosinopril","hsa-mir-362",24
+"AGTR1","imidapril","hsa-mir-362",24
+"AGTR1","lisinopril","hsa-mir-362",24
+"AGTR1","perindopril","hsa-mir-362",24
+"AGTR1","choline","hsa-mir-362",24
+"AGTR1","norepinephrine","hsa-mir-362",24
+"AGTR1","angiotensin ii antagonists and calcium channel blockers","hsa-mir-362",24
+"PPP1CC","glucose","hsa-mir-362",24
+"RASA1","chloroquine","hsa-mir-362",24
+"RASA1","l-arginine","hsa-mir-362",24
+"RASA1","nitric oxide","hsa-mir-362",24
+"RASA1","choline","hsa-mir-362",24
+"TSHR","choline","hsa-mir-135b",24
+"VEGFA","interferon alfacon-1","hsa-mir-135b",24
+"VEGFA","cisplatin","hsa-mir-135b",24
+"VEGFA","fluorouracil","hsa-mir-135b",24
+"VEGFA","gemcitabine","hsa-mir-135b",24
+"VEGFA","oxaliplatin","hsa-mir-135b",24
+"VEGFA","paclitaxel","hsa-mir-135b",24
+"VEGFA","irinotecan","hsa-mir-135b",24
+"VEGFA","trastuzumab","hsa-mir-135b",24
+"VEGFA","bevacizumab","hsa-mir-135b",24
+"VEGFA","leucovorin","hsa-mir-135b",24
+"VEGFA","celecoxib","hsa-mir-135b",24
+"VEGFA","sunitinib","hsa-mir-135b",24
+"VEGFA","capecitabine","hsa-mir-135b",24
+"VEGFA","cetuximab","hsa-mir-135b",24
+"VEGFA","adenosine monophosphate","hsa-mir-135b",24
+"VEGFA","adenosine triphosphate","hsa-mir-135b",24
+"VEGFA","l-arginine","hsa-mir-135b",24
+"VEGFA","l-citrulline","hsa-mir-135b",24
+"VEGFA","nitric oxide","hsa-mir-135b",24
+"VEGFA","glucose","hsa-mir-135b",24
+"VEGFA","pyruvic acid","hsa-mir-135b",24
+"VEGFA","semaxanib","hsa-mir-135b",24
+"VEGFA","cannabinoids","hsa-mir-135b",24
+"FDPS","raloxifene","hsa-mir-3188",23
+"FDPS","bisphosphonates","hsa-mir-3188",23
+"FDPS","pamidronate","hsa-mir-3188",23
+"FDPS","zoledronate","hsa-mir-3188",23
+"FDPS","alendronate","hsa-mir-3188",23
+"FDPS","ibandronate","hsa-mir-3188",23
+"FDPS","risedronate","hsa-mir-3188",23
+"PRKCA","gemcitabine","hsa-mir-3188",23
+"PRKCA","cyclosporine","hsa-mir-3188",23
+"PRKCA","tacrolimus","hsa-mir-3188",23
+"PRKCA","aspirin","hsa-mir-3188",23
+"PRKCA","tamoxifen","hsa-mir-3188",23
+"PRKCA","sirolimus","hsa-mir-3188",23
+"PRKCA","selective beta-2-adrenoreceptor agonists","hsa-mir-3188",23
+"PRKCA","adenosine triphosphate","hsa-mir-3188",23
+"PRKCA","chloroquine","hsa-mir-3188",23
+"PRKCA","l-arginine","hsa-mir-3188",23
+"PRKCA","l-citrulline","hsa-mir-3188",23
+"PRKCA","nitric oxide","hsa-mir-3188",23
+"PRKCA","nifedipine","hsa-mir-3188",23
+"PRKCA","salbutamol","hsa-mir-3188",23
+"PRKCA","teriparatide","hsa-mir-3188",23
+"SLC25A16","l-cysteine","hsa-mir-3188",23
+"ADCY9","salmeterol","hsa-mir-34c",22
+"ADCY9","isoproterenol","hsa-mir-34c",22
+"ADCY9","fluticasone/salmeterol","hsa-mir-34c",22
+"ADCY9","exenatide","hsa-mir-34c",22
+"ADRB1","antidepressants","hsa-mir-34c",22
+"ADRB1","muraglitazar","hsa-mir-34c",22
+"ADRB1","antihypertensives","hsa-mir-34c",22
+"ADRB1","beta blocking agents","hsa-mir-34c",22
+"ADRB1","selective beta-2-adrenoreceptor agonists","hsa-mir-34c",22
+"ADRB1","carvedilol","hsa-mir-34c",22
+"ADRB1","verapamil","hsa-mir-34c",22
+"ADRB1","atenolol","hsa-mir-34c",22
+"ADRB1","xenobiotics","hsa-mir-34c",22
+"ADRB1","dobutamine","hsa-mir-34c",22
+"ADRB1","epinephrine","hsa-mir-34c",22
+"ADRB1","metoprolol","hsa-mir-34c",22
+"ADRB1","acebutolol","hsa-mir-34c",22
+"ADRB1","atropine","hsa-mir-34c",22
+"GNAI2","l-arginine","hsa-mir-221",22
+"GNAI2","nitric oxide","hsa-mir-221",22
+"GNAI2","salmeterol","hsa-mir-221",22
+"GNAI2","fluticasone/salmeterol","hsa-mir-221",22
+"RAB5C","methotrexate","hsa-mir-34c",22
+"RAB5C","mercaptopurine","hsa-mir-34c",22
+"SLCO2B1","simvastatin","hsa-mir-221",22
+"SLCO2B1","aliskiren","hsa-mir-221",22
+"SLCO2B1","estrone","hsa-mir-221",22
+"SLCO2B1","penicillin g","hsa-mir-221",22
+"SLCO2B1","pitavastatin","hsa-mir-221",22
+"SLCO2B1","rosuvastatin","hsa-mir-221",22
+"SLCO2B1","atorvastatin","hsa-mir-221",22
+"SLCO2B1","montelukast","hsa-mir-221",22
+"SLCO2B1","pravastatin","hsa-mir-221",22
+"SLCO2B1","fluvastatin","hsa-mir-221",22
+"SLCO2B1","ezetimibe","hsa-mir-221",22
+"SLCO2B1","glibenclamide","hsa-mir-221",22
+"SLCO2B1","rifampin","hsa-mir-221",22
+"SLCO2B1","gemfibrozil","hsa-mir-221",22
+"SLCO2B1","cerivastatin","hsa-mir-221",22
+"SLCO2B1","grapefruit juice","hsa-mir-221",22
+"SLCO2B1","bosentan","hsa-mir-221",22
+"SLCO2B1","fexofenadine","hsa-mir-221",22
+"SULT1C2","docetaxel","hsa-mir-34c",22
+"SULT1C2","thalidomide","hsa-mir-34c",22
+"FGF9","methotrexate","hsa-mir-337",21
+"FGF9","nicotine","hsa-mir-337",21
+"FGF9","mercaptopurine","hsa-mir-337",21
+"SLC7A1","adenosine monophosphate","hsa-mir-337",21
+"SLC7A1","l-arginine","hsa-mir-337",21
+"SLC7A1","l-citrulline","hsa-mir-337",21
+"SLC7A1","nitric oxide","hsa-mir-337",21
+"SLC7A1","glycine","hsa-mir-337",21
+"SLC7A1","l-serine","hsa-mir-337",21
+"SLC7A1","l-proline","hsa-mir-337",21
+"SLC7A1","l-tyrosine","hsa-mir-337",21
+"SLC7A1","l-valine","hsa-mir-337",21
+"SLC7A1","taurine","hsa-mir-337",21
+"SLC7A1","l-alanine","hsa-mir-337",21
+"SLC7A1","l-cysteine","hsa-mir-337",21
+"SLC7A1","l-leucine","hsa-mir-337",21
+"SLC7A1","l-lysine","hsa-mir-337",21
+"SLC7A1","l-tryptophan","hsa-mir-337",21
+"UBE2A","adenosine triphosphate","hsa-mir-337",21
+"UBE2A","glucose","hsa-mir-337",21
+"UBE2A","pyruvic acid","hsa-mir-337",21
+"AGTR1","aliskiren","hsa-mir-6509",20
+"AGTR1","enalapril","hsa-mir-6509",20
+"AGTR1","antihypertensives","hsa-mir-6509",20
+"AGTR1","pravastatin","hsa-mir-6509",20
+"AGTR1","angiotensin ii antagonists","hsa-mir-6509",20
+"AGTR1","ace inhibitors; plain","hsa-mir-6509",20
+"AGTR1","l-arginine","hsa-mir-6509",20
+"AGTR1","nitric oxide","hsa-mir-6509",20
+"AGTR1","losartan","hsa-mir-6509",20
+"AGTR1","atenolol","hsa-mir-6509",20
+"AGTR1","torcetrapib","hsa-mir-6509",20
+"AGTR1","captopril","hsa-mir-6509",20
+"AGTR1","fosinopril","hsa-mir-6509",20
+"AGTR1","imidapril","hsa-mir-6509",20
+"AGTR1","lisinopril","hsa-mir-6509",20
+"AGTR1","perindopril","hsa-mir-6509",20
+"AGTR1","choline","hsa-mir-6509",20
+"AGTR1","norepinephrine","hsa-mir-6509",20
+"AGTR1","angiotensin ii antagonists and calcium channel blockers","hsa-mir-6509",20
+"AUH","biotin","hsa-mir-3617",20
+"AUH","l-leucine","hsa-mir-3617",20
+"EDNRB","choline","hsa-mir-6509",20
+"FOXO1","l-arginine","hsa-mir-3617",20
+"FOXO1","nitric oxide","hsa-mir-3617",20
+"FOXO1","choline","hsa-mir-3617",20
+"MIF","irinotecan","hsa-mir-301b",20
+"PPP1CA","dopamine","hsa-mir-301b",20
+"PPP1CA","adenosine triphosphate","hsa-mir-301b",20
+"SLC7A1","adenosine monophosphate","hsa-mir-3617",20
+"SLC7A1","l-arginine","hsa-mir-3617",20
+"SLC7A1","l-citrulline","hsa-mir-3617",20
+"SLC7A1","nitric oxide","hsa-mir-3617",20
+"SLC7A1","glycine","hsa-mir-3617",20
+"SLC7A1","l-serine","hsa-mir-3617",20
+"SLC7A1","l-proline","hsa-mir-3617",20
+"SLC7A1","l-tyrosine","hsa-mir-3617",20
+"SLC7A1","l-valine","hsa-mir-3617",20
+"SLC7A1","taurine","hsa-mir-3617",20
+"SLC7A1","l-alanine","hsa-mir-3617",20
+"SLC7A1","l-cysteine","hsa-mir-3617",20
+"SLC7A1","l-leucine","hsa-mir-3617",20
+"SLC7A1","l-lysine","hsa-mir-3617",20
+"SLC7A1","l-tryptophan","hsa-mir-3617",20
+"SMARCB1","betamethasone","hsa-mir-301b",20
+"SMARCB1","fluticasone propionate","hsa-mir-301b",20
+"SMARCB1","budesonide","hsa-mir-301b",20
+"SMARCB1","prednisone","hsa-mir-301b",20
+"SMARCB1","dexamethasone","hsa-mir-301b",20
+"SMARCB1","glucocorticoids","hsa-mir-301b",20
+"SMARCB1","hydrocortisone","hsa-mir-301b",20
+"SMARCB1","methylprednisolone","hsa-mir-301b",20
+"SMARCB1","mometasone","hsa-mir-301b",20
+"SMARCB1","paramethasone","hsa-mir-301b",20
+"SMARCB1","prednisolone","hsa-mir-301b",20
+"SMARCB1","rimexolone","hsa-mir-301b",20
+"SMARCB1","triamcinolone","hsa-mir-301b",20
+"SMARCB1","beclomethasone","hsa-mir-301b",20
+"SMARCB1","ciclesonide","hsa-mir-301b",20
+"SMARCB1","desonide","hsa-mir-301b",20
+"SMARCB1","flunisolide","hsa-mir-301b",20
+"CYB5A","glutathione","hsa-mir-7110",19
+"CYB5A","vitamin c","hsa-mir-7110",19
+"PAK1","chloroquine","hsa-mir-7110",19
+"PAK1","l-arginine","hsa-mir-7110",19
+"PAK1","nitric oxide","hsa-mir-7110",19
+"PAK1","choline","hsa-mir-7110",19
+"SLC6A3","antidepressants","hsa-mir-7110",19
+"SLC6A3","risperidone","hsa-mir-7110",19
+"SLC6A3","tacrolimus","hsa-mir-7110",19
+"SLC6A3","antipsychotics","hsa-mir-7110",19
+"SLC6A3","venlafaxine","hsa-mir-7110",19
+"SLC6A3","dopamine","hsa-mir-7110",19
+"SLC6A3","desipramine","hsa-mir-7110",19
+"SLC6A3","mirtazapine","hsa-mir-7110",19
+"SLC6A3","methylphenidate","hsa-mir-7110",19
+"SLC6A3","duloxetine","hsa-mir-7110",19
+"SLC6A3","milnacipran","hsa-mir-7110",19
+"SLC6A3","colchicine","hsa-mir-7110",19
+"SLC6A3","non-selective monoamine reuptake inhibitors","hsa-mir-7110",19
+"ABCD1","lorenzo's oil","hsa-mir-29b-1",17
+"AHR","omeprazole","hsa-mir-29b-1",17
+"AHR","gs-9350","hsa-mir-29b-1",17
+"CCNB1","conjugated estrogens","hsa-mir-548q",17
+"CCNB1","estradiol","hsa-mir-548q",17
+"CCNB1","estrone","hsa-mir-548q",17
+"CCNB1","progesterone","hsa-mir-548q",17
+"CCNB1","estrogens","hsa-mir-548q",17
+"CCNB1","celecoxib","hsa-mir-548q",17
+"CCNB1","letrozole","hsa-mir-548q",17
+"CCNB1","adenosine triphosphate","hsa-mir-548q",17
+"CCNB1","chlorotrianisene","hsa-mir-548q",17
+"CCNB1","dienestrol","hsa-mir-548q",17
+"CCNB1","diethylstilbestrol","hsa-mir-548q",17
+"CCNB1","ethinyl estradiol","hsa-mir-548q",17
+"CTSK","letrozole","hsa-mir-29b-1",17
+"GPC1","nitric oxide","hsa-mir-1266",17
+"HDAC4","methotrexate","hsa-mir-1266",17
+"HDAC4","5-fluoroucil","hsa-mir-1266",17
+"LPL","pioglitazone","hsa-mir-29b-1",17
+"LPL","rosiglitazone","hsa-mir-29b-1",17
+"LPL","thiazolidinediones","hsa-mir-29b-1",17
+"LPL","olanzapine","hsa-mir-29b-1",17
+"LPL","clozapine","hsa-mir-29b-1",17
+"LPL","troglitazone","hsa-mir-29b-1",17
+"LPL","fenofibrate","hsa-mir-29b-1",17
+"LPL","fluvastatin","hsa-mir-29b-1",17
+"LPL","hmg coa reductase inhibitors","hsa-mir-29b-1",17
+"LPL","phospholipids","hsa-mir-29b-1",17
+"LPL","hydrocortisone","hsa-mir-29b-1",17
+"LPL","triglycerides","hsa-mir-29b-1",17
+"LPL","metoprolol","hsa-mir-29b-1",17
+"PPP1CC","glucose","hsa-mir-3613",17
+"SLC29A1","cisplatin","hsa-mir-3613",17
+"SLC29A1","cisplatin","hsa-mir-34a",17
+"SLC29A1","fluorouracil","hsa-mir-3613",17
+"SLC29A1","fluorouracil","hsa-mir-34a",17
+"SLC29A1","gemcitabine","hsa-mir-3613",17
+"SLC29A1","gemcitabine","hsa-mir-34a",17
+"SLC29A1","cytarabine","hsa-mir-3613",17
+"SLC29A1","cytarabine","hsa-mir-34a",17
+"SLC29A1","capecitabine","hsa-mir-3613",17
+"SLC29A1","capecitabine","hsa-mir-34a",17
+"SLC29A1","mercaptopurine","hsa-mir-3613",17
+"SLC29A1","mercaptopurine","hsa-mir-34a",17
+"SLC29A1","azathioprine","hsa-mir-3613",17
+"SLC29A1","azathioprine","hsa-mir-34a",17
+"SLC29A1","dipyridamole","hsa-mir-3613",17
+"SLC29A1","dipyridamole","hsa-mir-34a",17
+"SLC29A1","ribavirin","hsa-mir-3613",17
+"SLC29A1","ribavirin","hsa-mir-34a",17
+"SLC29A1","dilazep","hsa-mir-3613",17
+"SLC29A1","dilazep","hsa-mir-34a",17
+"SLC29A1","tubercidin","hsa-mir-3613",17
+"SLC29A1","tubercidin","hsa-mir-34a",17
+"SLC29A1","floxuridine","hsa-mir-3613",17
+"SLC29A1","floxuridine","hsa-mir-34a",17
+"SLC29A1","nucleosides and nucleotides excl. reverse transcriptase inhibitors","hsa-mir-3613",17
+"SLC29A1","nucleosides and nucleotides excl. reverse transcriptase inhibitors","hsa-mir-34a",17
+"SLC29A1","cladribine","hsa-mir-3613",17
+"SLC29A1","cladribine","hsa-mir-34a",17
+"SLC29A1","fludarabine","hsa-mir-3613",17
+"SLC29A1","fludarabine","hsa-mir-34a",17
+"SLC29A1","clofarabine","hsa-mir-3613",17
+"SLC29A1","clofarabine","hsa-mir-34a",17
+"SLC7A11","estradiol","hsa-mir-1266",17
+"SLC7A11","tamoxifen","hsa-mir-1266",17
+"SLC7A11","l-arginine","hsa-mir-1266",17
+"SLC7A11","antineoplastic agents","hsa-mir-1266",17
+"SLC7A11","glycine","hsa-mir-1266",17
+"SLC7A11","l-serine","hsa-mir-1266",17
+"SLC7A11","l-proline","hsa-mir-1266",17
+"SLC7A11","l-tyrosine","hsa-mir-1266",17
+"SLC7A11","l-valine","hsa-mir-1266",17
+"SLC7A11","taurine","hsa-mir-1266",17
+"SLC7A11","l-alanine","hsa-mir-1266",17
+"SLC7A11","l-cysteine","hsa-mir-1266",17
+"SLC7A11","l-leucine","hsa-mir-1266",17
+"SLC7A11","l-lysine","hsa-mir-1266",17
+"SMARCC2","betamethasone","hsa-mir-449a",17
+"SMARCC2","fluticasone propionate","hsa-mir-449a",17
+"SMARCC2","budesonide","hsa-mir-449a",17
+"SMARCC2","prednisone","hsa-mir-449a",17
+"SMARCC2","dexamethasone","hsa-mir-449a",17
+"SMARCC2","glucocorticoids","hsa-mir-449a",17
+"SMARCC2","hydrocortisone","hsa-mir-449a",17
+"SMARCC2","methylprednisolone","hsa-mir-449a",17
+"SMARCC2","mometasone","hsa-mir-449a",17
+"SMARCC2","paramethasone","hsa-mir-449a",17
+"SMARCC2","prednisolone","hsa-mir-449a",17
+"SMARCC2","rimexolone","hsa-mir-449a",17
+"SMARCC2","triamcinolone","hsa-mir-449a",17
+"SMARCC2","beclomethasone","hsa-mir-449a",17
+"SMARCC2","ciclesonide","hsa-mir-449a",17
+"SMARCC2","desonide","hsa-mir-449a",17
+"SMARCC2","flunisolide","hsa-mir-449a",17
+"SMARCD1","betamethasone","hsa-mir-6805",17
+"SMARCD1","fluticasone propionate","hsa-mir-6805",17
+"SMARCD1","budesonide","hsa-mir-6805",17
+"SMARCD1","prednisone","hsa-mir-6805",17
+"SMARCD1","dexamethasone","hsa-mir-6805",17
+"SMARCD1","glucocorticoids","hsa-mir-6805",17
+"SMARCD1","hydrocortisone","hsa-mir-6805",17
+"SMARCD1","methylprednisolone","hsa-mir-6805",17
+"SMARCD1","mometasone","hsa-mir-6805",17
+"SMARCD1","paramethasone","hsa-mir-6805",17
+"SMARCD1","prednisolone","hsa-mir-6805",17
+"SMARCD1","rimexolone","hsa-mir-6805",17
+"SMARCD1","triamcinolone","hsa-mir-6805",17
+"SMARCD1","beclomethasone","hsa-mir-6805",17
+"SMARCD1","ciclesonide","hsa-mir-6805",17
+"SMARCD1","desonide","hsa-mir-6805",17
+"SMARCD1","flunisolide","hsa-mir-6805",17
+"STAT3","interferon alfacon-1","hsa-mir-548q",17
+"STAT3","sorafenib","hsa-mir-548q",17
+"STAT3","imatinib","hsa-mir-548q",17
+"STAT3","busulfan","hsa-mir-548q",17
+"STAT3","ekb-569","hsa-mir-548q",17
+"TSC1","sirolimus","hsa-mir-34a",17
+"AARS2","l-arginine","hsa-mir-365b",16
+"AARS2","l-arginine","hsa-mir-365a",16
+"AARS2","l-glutamine","hsa-mir-365b",16
+"AARS2","l-glutamine","hsa-mir-365a",16
+"AARS2","l-methionine","hsa-mir-365b",16
+"AARS2","l-methionine","hsa-mir-365a",16
+"AARS2","glycine","hsa-mir-365b",16
+"AARS2","glycine","hsa-mir-365a",16
+"AARS2","l-serine","hsa-mir-365b",16
+"AARS2","l-serine","hsa-mir-365a",16
+"AARS2","l-tyrosine","hsa-mir-365b",16
+"AARS2","l-tyrosine","hsa-mir-365a",16
+"AARS2","l-valine","hsa-mir-365b",16
+"AARS2","l-valine","hsa-mir-365a",16
+"AARS2","l-alanine","hsa-mir-365b",16
+"AARS2","l-alanine","hsa-mir-365a",16
+"AARS2","l-cysteine","hsa-mir-365b",16
+"AARS2","l-cysteine","hsa-mir-365a",16
+"AARS2","l-leucine","hsa-mir-365b",16
+"AARS2","l-leucine","hsa-mir-365a",16
+"AARS2","l-lysine","hsa-mir-365b",16
+"AARS2","l-lysine","hsa-mir-365a",16
+"AARS2","l-histidine","hsa-mir-365b",16
+"AARS2","l-histidine","hsa-mir-365a",16
+"AARS2","l-phenylalanine","hsa-mir-365b",16
+"AARS2","l-phenylalanine","hsa-mir-365a",16
+"AARS2","l-threonine","hsa-mir-365b",16
+"AARS2","l-threonine","hsa-mir-365a",16
+"AARS2","l-tryptophan","hsa-mir-365b",16
+"AARS2","l-tryptophan","hsa-mir-365a",16
+"ADORA1","methotrexate","hsa-mir-643",16
+"ADORA1","dpcpx","hsa-mir-643",16
+"ADORA1","infliximab","hsa-mir-643",16
+"ADORA1","adalimumab","hsa-mir-643",16
+"ADORA1","thiazolidinediones","hsa-mir-643",16
+"ADORA1","estradiol","hsa-mir-643",16
+"ADORA1","fulvestrant","hsa-mir-643",16
+"ADORA1","caffeine","hsa-mir-643",16
+"ADORA1","adenosine","hsa-mir-643",16
+"ADORA1","theophylline","hsa-mir-643",16
+"ATP7A","cisplatin","hsa-mir-643",16
+"ATP7A","oxaliplatin","hsa-mir-643",16
+"ATP7A","docetaxel","hsa-mir-643",16
+"ATP7A","thalidomide","hsa-mir-643",16
+"ATP7A","carboplatin","hsa-mir-643",16
+"ATP7A","platinum","hsa-mir-643",16
+"DBH","drugs used in nicotine dependence","hsa-mir-494",16
+"DBH","bupropion","hsa-mir-494",16
+"DBH","dopamine","hsa-mir-494",16
+"DBH","nicotine","hsa-mir-494",16
+"DBH","tetrahydrobiopterin","hsa-mir-494",16
+"DBH","norepinephrine","hsa-mir-494",16
+"DBH","l-tyrosine","hsa-mir-494",16
+"DBH","vitamin c","hsa-mir-494",16
+"DBH","disulfiram","hsa-mir-494",16
+"DBH","levodopa","hsa-mir-494",16
+"DBH","catecholamines","hsa-mir-494",16
+"EEF1E1","l-arginine","hsa-mir-370",16
+"EEF1E1","l-glutamine","hsa-mir-370",16
+"EEF1E1","l-methionine","hsa-mir-370",16
+"EEF1E1","glycine","hsa-mir-370",16
+"EEF1E1","l-serine","hsa-mir-370",16
+"EEF1E1","l-proline","hsa-mir-370",16
+"EEF1E1","l-tyrosine","hsa-mir-370",16
+"EEF1E1","l-valine","hsa-mir-370",16
+"EEF1E1","l-alanine","hsa-mir-370",16
+"EEF1E1","l-cysteine","hsa-mir-370",16
+"EEF1E1","l-leucine","hsa-mir-370",16
+"EEF1E1","l-lysine","hsa-mir-370",16
+"EEF1E1","l-histidine","hsa-mir-370",16
+"EEF1E1","l-phenylalanine","hsa-mir-370",16
+"EEF1E1","l-threonine","hsa-mir-370",16
+"EEF1E1","l-tryptophan","hsa-mir-370",16
+"ITPR1","heparin","hsa-mir-365b",16
+"PARD6B","cisplatin","hsa-mir-494",16
+"RECK","gemcitabine","hsa-mir-365a",16
+"S100A8","methotrexate","hsa-mir-105-1",16
+"S100A8","mercaptopurine","hsa-mir-105-1",16
+"S100A9","methotrexate","hsa-mir-105-1",16
+"S100A9","mercaptopurine","hsa-mir-105-1",16
+"SLC7A5","l-arginine","hsa-mir-105-1",16
+"SLC7A5","glycine","hsa-mir-105-1",16
+"SLC7A5","l-serine","hsa-mir-105-1",16
+"SLC7A5","l-proline","hsa-mir-105-1",16
+"SLC7A5","l-tyrosine","hsa-mir-105-1",16
+"SLC7A5","l-valine","hsa-mir-105-1",16
+"SLC7A5","taurine","hsa-mir-105-1",16
+"SLC7A5","l-alanine","hsa-mir-105-1",16
+"SLC7A5","l-cysteine","hsa-mir-105-1",16
+"SLC7A5","l-leucine","hsa-mir-105-1",16
+"SLC7A5","l-lysine","hsa-mir-105-1",16
+"SLC7A5","l-tryptophan","hsa-mir-105-1",16
+"XIAP","cisplatin","hsa-mir-494",16
+"XIAP","busulfan","hsa-mir-494",16
+"XIAP","vincristine","hsa-mir-494",16
+"XIAP","fludarabine","hsa-mir-494",16
+"ADORA1","methotrexate","hsa-mir-140",15
+"ADORA1","dpcpx","hsa-mir-140",15
+"ADORA1","infliximab","hsa-mir-140",15
+"ADORA1","adalimumab","hsa-mir-140",15
+"ADORA1","thiazolidinediones","hsa-mir-140",15
+"ADORA1","estradiol","hsa-mir-140",15
+"ADORA1","fulvestrant","hsa-mir-140",15
+"ADORA1","caffeine","hsa-mir-140",15
+"ADORA1","adenosine","hsa-mir-140",15
+"ADORA1","theophylline","hsa-mir-140",15
+"AKT3","docetaxel","hsa-mir-136",15
+"CA2","brinzolamide","hsa-mir-431",15
+"CA2","dichlorphenamide","hsa-mir-431",15
+"CA2","acetazolamide","hsa-mir-431",15
+"CA2","sulfanilamide","hsa-mir-431",15
+"CA2","methazolamide","hsa-mir-431",15
+"CACNA1A","calcium channel blockers","hsa-mir-140",15
+"CCNB1","conjugated estrogens","hsa-mir-7-3",15
+"CCNB1","estradiol","hsa-mir-7-3",15
+"CCNB1","estrone","hsa-mir-7-3",15
+"CCNB1","progesterone","hsa-mir-7-3",15
+"CCNB1","estrogens","hsa-mir-7-3",15
+"CCNB1","celecoxib","hsa-mir-7-3",15
+"CCNB1","letrozole","hsa-mir-7-3",15
+"CCNB1","adenosine triphosphate","hsa-mir-7-3",15
+"CCNB1","chlorotrianisene","hsa-mir-7-3",15
+"CCNB1","dienestrol","hsa-mir-7-3",15
+"CCNB1","diethylstilbestrol","hsa-mir-7-3",15
+"CCNB1","ethinyl estradiol","hsa-mir-7-3",15
+"CLU","gemcitabine","hsa-mir-140",15
+"CTSK","letrozole","hsa-mir-7-3",15
+"FN1","l-arginine","hsa-mir-431",15
+"FN1","nitric oxide","hsa-mir-431",15
+"FN1","choline","hsa-mir-431",15
+"FN1","phospholipids","hsa-mir-431",15
+"GBE1","methotrexate","hsa-mir-136",15
+"GBE1","mercaptopurine","hsa-mir-136",15
+"IGF1","fluorouracil","hsa-mir-324",15
+"IGF1","oxaliplatin","hsa-mir-324",15
+"IGF1","irinotecan","hsa-mir-324",15
+"IGF1","sirolimus","hsa-mir-324",15
+"IGF1","bevacizumab","hsa-mir-324",15
+"IGF1","leucovorin","hsa-mir-324",15
+"IGF1","glutathione","hsa-mir-324",15
+"IGF1","l-arginine","hsa-mir-324",15
+"IGF1","nitric oxide","hsa-mir-324",15
+"IGF1R","trastuzumab","hsa-mir-3664",15
+"IGF1R","sirolimus","hsa-mir-3664",15
+"IGF1R","sorafenib","hsa-mir-3664",15
+"IGF1R","l-arginine","hsa-mir-3664",15
+"IGF1R","nitric oxide","hsa-mir-3664",15
+"IL1B","methotrexate","hsa-mir-3664",15
+"IL1B","opioids","hsa-mir-3664",15
+"IL1B","pravastatin","hsa-mir-3664",15
+"IL1B","nitric oxide","hsa-mir-3664",15
+"IL1B","dexamethasone","hsa-mir-3664",15
+"IL1B","risedronate","hsa-mir-3664",15
+"IL1B","glucocorticoids","hsa-mir-3664",15
+"IL1B","etidronic acid","hsa-mir-3664",15
+"IL1B","clodronate","hsa-mir-3664",15
+"IL1B","tiludronate","hsa-mir-3664",15
+"JAK2","interferon beta-1b","hsa-mir-431",15
+"JAK2","imatinib","hsa-mir-431",15
+"JAK2","l-arginine","hsa-mir-431",15
+"JAK2","l-citrulline","hsa-mir-431",15
+"JAK2","nitric oxide","hsa-mir-431",15
+"JAK2","interferon beta-1a","hsa-mir-431",15
+"JUNB","tacrolimus","hsa-mir-7-3",15
+"JUNB","adenosine triphosphate","hsa-mir-7-3",15
+"NT5E","uridine","hsa-mir-136",15
+"NT5E","methotrexate","hsa-mir-136",15
+"NT5E","gliclazide","hsa-mir-136",15
+"NT5E","antimetabolites","hsa-mir-136",15
+"NT5E","mercaptopurine","hsa-mir-136",15
+"NT5E","thioguanine","hsa-mir-136",15
+"NT5E","adenosine","hsa-mir-136",15
+"NT5E","sulfasalazine","hsa-mir-136",15
+"NT5E","staurosporine","hsa-mir-136",15
+"PDE3B","adenosine monophosphate","hsa-mir-324",15
+"PDE3B","l-arginine","hsa-mir-324",15
+"PDE3B","l-citrulline","hsa-mir-324",15
+"PDE3B","nitric oxide","hsa-mir-324",15
+"PITX2","warfarin","hsa-mir-140",15
+"PITX2","beta blocking agents","hsa-mir-140",15
+"PITX2","beta blocking agents; selective","hsa-mir-140",15
+"PTGDR","l-arginine","hsa-mir-136",15
+"PTGDR","nitric oxide","hsa-mir-136",15
+"PTGDR","niacin","hsa-mir-136",15
+"PTPRG","methotrexate","hsa-mir-324",15
+"PTPRG","mercaptopurine","hsa-mir-324",15
+"ALDOA","conjugated estrogens","hsa-mir-3198-2",14
+"ALDOA","estradiol","hsa-mir-3198-2",14
+"ALDOA","fructose 1-6 bisphosphate","hsa-mir-3198-2",14
+"ALDOA","estrone","hsa-mir-3198-2",14
+"ALDOA","estrogens","hsa-mir-3198-2",14
+"ALDOA","chlorotrianisene","hsa-mir-3198-2",14
+"ALDOA","dienestrol","hsa-mir-3198-2",14
+"ALDOA","diethylstilbestrol","hsa-mir-3198-2",14
+"ALDOA","ethinyl estradiol","hsa-mir-3198-2",14
+"CD47","phospholipids","hsa-mir-3198-2",14
+"CHRNB2","galantamine","hsa-mir-3198-2",14
+"CHRNB2","bupropion","hsa-mir-3198-2",14
+"CHRNB2","nicotine","hsa-mir-3198-2",14
+"CHRNB2","varenicline","hsa-mir-3198-2",14
+"MAPK8","cyclosporine","hsa-mir-598",14
+"MAPK8","tacrolimus","hsa-mir-598",14
+"MAPK8","sorafenib","hsa-mir-598",14
+"MAPK8","imatinib","hsa-mir-598",14
+"MAPK8","chloroquine","hsa-mir-598",14
+"MAPK8","imiquimod","hsa-mir-598",14
+"MAPK8","glutathione","hsa-mir-598",14
+"MAPK8","l-arginine","hsa-mir-598",14
+"MAPK8","nitric oxide","hsa-mir-598",14
+"MAPK8","insulin-glargine","hsa-mir-598",14
+"MAPK8","choline","hsa-mir-598",14
+"MAPK8","pp2","hsa-mir-598",14
+"PARG","methotrexate","hsa-mir-598",14
+"PARG","mercaptopurine","hsa-mir-598",14
+"AR","testosterone","hsa-mir-6842",13
+"AR","ethanol","hsa-mir-6842",13
+"AR","drospirenone/ethinyl estradiol","hsa-mir-6842",13
+"AR","levonorgestrel","hsa-mir-6842",13
+"CD4","cyclosporine","hsa-mir-548o-2",13
+"CD4","tacrolimus","hsa-mir-548o-2",13
+"CD4","adenosine triphosphate","hsa-mir-548o-2",13
+"CD4","choline","hsa-mir-548o-2",13
+"CDK6","cisplatin","hsa-mir-19b-1",13
+"CDK6","antineoplastic agents","hsa-mir-19b-1",13
+"CHRNA7","local anesthetics","hsa-mir-548o-2",13
+"CHRNA7","nicotine","hsa-mir-548o-2",13
+"CHRNA7","xenobiotics","hsa-mir-548o-2",13
+"CHRNA7","choline","hsa-mir-548o-2",13
+"CHRNA7","acetylcholine","hsa-mir-548o-2",13
+"CHRNA7","trimethaphan","hsa-mir-548o-2",13
+"CHRNA7","varenicline","hsa-mir-548o-2",13
+"CSF1R","imatinib","hsa-mir-548o-2",13
+"CSF1R","sunitinib","hsa-mir-548o-2",13
+"DBH","drugs used in nicotine dependence","hsa-mir-3115",13
+"DBH","bupropion","hsa-mir-3115",13
+"DBH","dopamine","hsa-mir-3115",13
+"DBH","nicotine","hsa-mir-3115",13
+"DBH","tetrahydrobiopterin","hsa-mir-3115",13
+"DBH","norepinephrine","hsa-mir-3115",13
+"DBH","l-tyrosine","hsa-mir-3115",13
+"DBH","vitamin c","hsa-mir-3115",13
+"DBH","disulfiram","hsa-mir-3115",13
+"DBH","levodopa","hsa-mir-3115",13
+"DBH","catecholamines","hsa-mir-3115",13
+"GPNMB","letrozole","hsa-mir-1249",13
+"GPX3","cisplatin","hsa-mir-6842",13
+"IGF1","fluorouracil","hsa-mir-4746",13
+"IGF1","oxaliplatin","hsa-mir-4746",13
+"IGF1","irinotecan","hsa-mir-4746",13
+"IGF1","sirolimus","hsa-mir-4746",13
+"IGF1","bevacizumab","hsa-mir-4746",13
+"IGF1","leucovorin","hsa-mir-4746",13
+"IGF1","glutathione","hsa-mir-4746",13
+"IGF1","l-arginine","hsa-mir-4746",13
+"IGF1","nitric oxide","hsa-mir-4746",13
+"KCNA5","warfarin","hsa-mir-1249",13
+"KCNA5","beta blocking agents; selective","hsa-mir-1249",13
+"KCNA5","antiarrhythmics; class i and iii","hsa-mir-1249",13
+"KISS1","conjugated estrogens","hsa-mir-19b-1",13
+"KISS1","estradiol","hsa-mir-19b-1",13
+"KISS1","estrone","hsa-mir-19b-1",13
+"KISS1","estrogens","hsa-mir-19b-1",13
+"KISS1","chlorotrianisene","hsa-mir-19b-1",13
+"KISS1","dienestrol","hsa-mir-19b-1",13
+"KISS1","diethylstilbestrol","hsa-mir-19b-1",13
+"KISS1","ethinyl estradiol","hsa-mir-19b-1",13
+"MAPK13","sorafenib","hsa-mir-1249",13
+"NDUFAB1","metformin","hsa-mir-3115",13
+"PPM1D","doxorubicin","hsa-mir-4746",13
+"PPP2R5D","tacrolimus","hsa-mir-6842",13
+"PPP2R5D","tamoxifen","hsa-mir-6842",13
+"PPP2R5D","sirolimus","hsa-mir-6842",13
+"PPP2R5D","dopamine","hsa-mir-6842",13
+"PPP2R5D","adenosine monophosphate","hsa-mir-6842",13
+"PPP2R5D","adenosine triphosphate","hsa-mir-6842",13
+"PPP2R5D","glucose","hsa-mir-6842",13
+"PPP2R5D","colchicine","hsa-mir-6842",13
+"PTK2","l-arginine","hsa-mir-151a",13
+"PTK2","l-citrulline","hsa-mir-151a",13
+"PTK2","nitric oxide","hsa-mir-151a",13
+"PTK2","choline","hsa-mir-151a",13
+"RAC1","cyclosporine","hsa-mir-151a",13
+"RAC1","tacrolimus","hsa-mir-151a",13
+"RAC1","chloroquine","hsa-mir-151a",13
+"RAC1","lecithin","hsa-mir-151a",13
+"RAC1","l-arginine","hsa-mir-151a",13
+"RAC1","nitric oxide","hsa-mir-151a",13
+"RAC1","mercaptopurine","hsa-mir-151a",13
+"RAC1","azathioprine","hsa-mir-151a",13
+"RAC1","choline","hsa-mir-151a",13
+"RBMX","methotrexate","hsa-mir-4746",13
+"RBMX","mercaptopurine","hsa-mir-4746",13
+"SELE","l-arginine","hsa-mir-19b-1",13
+"SELE","nitric oxide","hsa-mir-19b-1",13
+"SELE","glucocorticoids","hsa-mir-19b-1",13
+"SMURF1","conjugated estrogens","hsa-mir-1249",13
+"SMURF1","estradiol","hsa-mir-1249",13
+"SMURF1","estrone","hsa-mir-1249",13
+"SMURF1","estrogens","hsa-mir-1249",13
+"SMURF1","chlorotrianisene","hsa-mir-1249",13
+"SMURF1","dienestrol","hsa-mir-1249",13
+"SMURF1","diethylstilbestrol","hsa-mir-1249",13
+"SMURF1","ethinyl estradiol","hsa-mir-1249",13
+"TIRAP","imiquimod","hsa-mir-4746",13
+"TIRAP","imiquimod","hsa-mir-3115",13
+"EDN1","cyclosporine","hsa-mir-18a",12
+"EDN1","tacrolimus","hsa-mir-18a",12
+"EDN1","muraglitazar","hsa-mir-18a",12
+"EDN1","beta blocking agents","hsa-mir-18a",12
+"EDN1","adenosine triphosphate","hsa-mir-18a",12
+"EDN1","glucose","hsa-mir-18a",12
+"EDN1","pyruvic acid","hsa-mir-18a",12
+"FDPS","raloxifene","hsa-mir-3939",12
+"FDPS","bisphosphonates","hsa-mir-3939",12
+"FDPS","pamidronate","hsa-mir-3939",12
+"FDPS","zoledronate","hsa-mir-3939",12
+"FDPS","alendronate","hsa-mir-3939",12
+"FDPS","ibandronate","hsa-mir-3939",12
+"FDPS","risedronate","hsa-mir-3939",12
+"GPI","biotin","hsa-mir-500a",12
+"GPX3","cisplatin","hsa-mir-18a",12
+"IL6","interferon alfacon-1","hsa-mir-500a",12
+"IL6","pioglitazone","hsa-mir-500a",12
+"IL6","warfarin","hsa-mir-500a",12
+"IL6","sertraline","hsa-mir-500a",12
+"IL6","beta blocking agents; selective","hsa-mir-500a",12
+"IL6","salbutamol","hsa-mir-500a",12
+"IL6","epoetin alfa","hsa-mir-500a",12
+"IL6","dexamethasone","hsa-mir-500a",12
+"IL6","glucocorticoids","hsa-mir-500a",12
+"IL6","fibrinogen","hsa-mir-500a",12
+"IL6","tacrine","hsa-mir-500a",12
+"ITPR1","heparin","hsa-mir-639",12
+"KPNA2","tacrolimus","hsa-mir-639",12
+"MAPK8","cyclosporine","hsa-mir-935",12
+"MAPK8","tacrolimus","hsa-mir-935",12
+"MAPK8","sorafenib","hsa-mir-935",12
+"MAPK8","imatinib","hsa-mir-935",12
+"MAPK8","chloroquine","hsa-mir-935",12
+"MAPK8","imiquimod","hsa-mir-935",12
+"MAPK8","glutathione","hsa-mir-935",12
+"MAPK8","l-arginine","hsa-mir-935",12
+"MAPK8","nitric oxide","hsa-mir-935",12
+"MAPK8","insulin-glargine","hsa-mir-935",12
+"MAPK8","choline","hsa-mir-935",12
+"MAPK8","pp2","hsa-mir-935",12
+"MTHFD2","methotrexate","hsa-mir-18a",12
+"MTHFD2","folic acid","hsa-mir-18a",12
+"NRP1","l-arginine","hsa-mir-18a",12
+"NRP1","nitric oxide","hsa-mir-18a",12
+"PDE11A","fluoxetine","hsa-mir-3939",12
+"PRKAR1A","progesterone","hsa-mir-639",12
+"PRKAR1A","dopamine","hsa-mir-639",12
+"PRKAR1A","adenosine monophosphate","hsa-mir-639",12
+"PRKAR1A","adenosine triphosphate","hsa-mir-639",12
+"PRKAR1A","l-arginine","hsa-mir-639",12
+"PRKAR1A","l-citrulline","hsa-mir-639",12
+"PRKAR1A","nitric oxide","hsa-mir-639",12
+"PRKAR1A","glucose","hsa-mir-639",12
+"PRKAR1A","alprostadil","hsa-mir-639",12
+"PRKAR1A","epinephrine","hsa-mir-639",12
+"RGS4","risperidone","hsa-mir-3939",12
+"RGS4","quetiapine","hsa-mir-3939",12
+"RGS4","ziprasidone","hsa-mir-3939",12
+"RGS4","perphenazine","hsa-mir-3939",12
+"APLN","conjugated estrogens","hsa-mir-4638",11
+"APLN","estradiol","hsa-mir-4638",11
+"APLN","estrone","hsa-mir-4638",11
+"APLN","estrogens","hsa-mir-4638",11
+"APLN","chlorotrianisene","hsa-mir-4638",11
+"APLN","dienestrol","hsa-mir-4638",11
+"APLN","diethylstilbestrol","hsa-mir-4638",11
+"APLN","ethinyl estradiol","hsa-mir-4638",11
+"ASPH","adenosine triphosphate","hsa-mir-576",11
+"ASPH","glucose","hsa-mir-576",11
+"ASPH","pyruvic acid","hsa-mir-576",11
+"CEBPD","prednisolone","hsa-mir-3680-2",11
+"COL4A1","adenosine monophosphate","hsa-mir-5691",11
+"COL4A1","adenosine triphosphate","hsa-mir-5691",11
+"COL4A1","epinephrine","hsa-mir-5691",11
+"DHFR","cisplatin","hsa-mir-4714",11
+"DHFR","fluorouracil","hsa-mir-4714",11
+"DHFR","methotrexate","hsa-mir-4714",11
+"DHFR","folic acid","hsa-mir-4714",11
+"DHFR","multivitamins; plain","hsa-mir-4714",11
+"DHFR","antimetabolites","hsa-mir-4714",11
+"DHFR","antineoplastic agents","hsa-mir-4714",11
+"DHFR","glycine","hsa-mir-4714",11
+"DHFR","l-serine","hsa-mir-4714",11
+"DHFR","ibuprofen","hsa-mir-4714",11
+"EBF3","cisplatin","hsa-mir-6806",11
+"ERBB3","cisplatin","hsa-mir-509-1",11
+"ERBB3","gemcitabine","hsa-mir-509-1",11
+"ERBB3","lapatinib","hsa-mir-509-1",11
+"ERBB3","gefitinib","hsa-mir-509-1",11
+"ERBB3","trastuzumab","hsa-mir-509-1",11
+"ERBB3","chloroquine","hsa-mir-509-1",11
+"ERBB3","erlotinib","hsa-mir-509-1",11
+"ERBB3","pha-665752","hsa-mir-509-1",11
+"ERCC5","cisplatin","hsa-mir-3680-2",11
+"ERCC5","topoisomerase i inhibitors","hsa-mir-3680-2",11
+"ERCC5","antimetabolites","hsa-mir-3680-2",11
+"ERCC5","taxanes","hsa-mir-3680-2",11
+"ERCC5","podophyllotoxin derivatives","hsa-mir-3680-2",11
+"ERCC5","folic acid analogues","hsa-mir-3680-2",11
+"ERCC5","vinca alkaloids and analogues","hsa-mir-3680-2",11
+"FLT1","axitinib","hsa-mir-5691",11
+"FLT1","sunitinib","hsa-mir-5691",11
+"FLT1","adenosine monophosphate","hsa-mir-5691",11
+"FLT1","l-arginine","hsa-mir-5691",11
+"FLT1","l-citrulline","hsa-mir-5691",11
+"FLT1","nitric oxide","hsa-mir-5691",11
+"FLT1","vatalanib","hsa-mir-5691",11
+"GADD45A","ibuprofen","hsa-mir-3680-2",11
+"HTR7","simvastatin","hsa-mir-584",11
+"HTR7","atorvastatin","hsa-mir-584",11
+"HTR7","pravastatin","hsa-mir-584",11
+"IL6","interferon alfacon-1","hsa-mir-592",11
+"IL6","pioglitazone","hsa-mir-592",11
+"IL6","warfarin","hsa-mir-592",11
+"IL6","sertraline","hsa-mir-592",11
+"IL6","beta blocking agents; selective","hsa-mir-592",11
+"IL6","salbutamol","hsa-mir-592",11
+"IL6","epoetin alfa","hsa-mir-592",11
+"IL6","dexamethasone","hsa-mir-592",11
+"IL6","glucocorticoids","hsa-mir-592",11
+"IL6","fibrinogen","hsa-mir-592",11
+"IL6","tacrine","hsa-mir-592",11
+"MAP2K3","adenosine triphosphate","hsa-mir-576",11
+"MAP2K3","chloroquine","hsa-mir-576",11
+"MAP2K3","imiquimod","hsa-mir-576",11
+"MAP2K3","l-arginine","hsa-mir-576",11
+"MAP2K3","nitric oxide","hsa-mir-576",11
+"MAP2K3","dexamethasone","hsa-mir-576",11
+"MAPK6","sorafenib","hsa-mir-509-1",11
+"MAPK7","docetaxel","hsa-mir-576",11
+"MAPK7","sorafenib","hsa-mir-576",11
+"MAPKAPK3","glutathione","hsa-mir-5691",11
+"MMP9","cisplatin","hsa-mir-584",11
+"MMP9","fluorouracil","hsa-mir-584",11
+"MMP9","rosiglitazone","hsa-mir-584",11
+"MMP9","celecoxib","hsa-mir-584",11
+"MMP9","l-arginine","hsa-mir-584",11
+"MMP9","nitric oxide","hsa-mir-584",11
+"NMT1","methotrexate","hsa-mir-3680-2",11
+"NMT1","mercaptopurine","hsa-mir-3680-2",11
+"NR2F2","glucocorticoids","hsa-mir-1181",11
+"NUBPL","iloperidone","hsa-mir-107",11
+"PARG","methotrexate","hsa-mir-584",11
+"PARG","mercaptopurine","hsa-mir-584",11
+"PLCB1","aspirin","hsa-mir-1181",11
+"PLCB1","beta blocking agents","hsa-mir-1181",11
+"PLCB1","dopamine","hsa-mir-1181",11
+"PLCB1","adenosine triphosphate","hsa-mir-1181",11
+"PLCB1","l-arginine","hsa-mir-1181",11
+"PLCB1","nitric oxide","hsa-mir-1181",11
+"PLCB1","nifedipine","hsa-mir-1181",11
+"PLCB1","dinoprostone","hsa-mir-1181",11
+"PLCB1","epoprostenol","hsa-mir-1181",11
+"PLCB1","epoxides","hsa-mir-1181",11
+"PRKAR1A","progesterone","hsa-mir-6806",11
+"PRKAR1A","dopamine","hsa-mir-6806",11
+"PRKAR1A","adenosine monophosphate","hsa-mir-6806",11
+"PRKAR1A","adenosine triphosphate","hsa-mir-6806",11
+"PRKAR1A","l-arginine","hsa-mir-6806",11
+"PRKAR1A","l-citrulline","hsa-mir-6806",11
+"PRKAR1A","nitric oxide","hsa-mir-6806",11
+"PRKAR1A","glucose","hsa-mir-6806",11
+"PRKAR1A","alprostadil","hsa-mir-6806",11
+"PRKAR1A","epinephrine","hsa-mir-6806",11
+"RCAN1","cyclosporine","hsa-mir-4638",11
+"RCAN1","tacrolimus","hsa-mir-4638",11
+"RCAN1","sirolimus","hsa-mir-4638",11
+"SLC2A1","morphine","hsa-mir-107",11
+"SLC2A1","codeine","hsa-mir-107",11
+"SMPD1","glutathione","hsa-mir-4714",11
+"SMURF1","conjugated estrogens","hsa-mir-107",11
+"SMURF1","estradiol","hsa-mir-107",11
+"SMURF1","estrone","hsa-mir-107",11
+"SMURF1","estrogens","hsa-mir-107",11
+"SMURF1","chlorotrianisene","hsa-mir-107",11
+"SMURF1","dienestrol","hsa-mir-107",11
+"SMURF1","diethylstilbestrol","hsa-mir-107",11
+"SMURF1","ethinyl estradiol","hsa-mir-107",11
+"TOB2","methotrexate","hsa-mir-509-1",11
+"TOB2","mercaptopurine","hsa-mir-509-1",11
+"UGT1A7","propofol","hsa-mir-5002",11
+"UGT1A7","tipifarnib","hsa-mir-5002",11
+"UGT1A7","irinotecan","hsa-mir-5002",11
+"UGT1A7","sn-38","hsa-mir-5002",11
+"UGT1A7","gefitinib","hsa-mir-5002",11
+"UGT1A7","mycophenolate mofetil","hsa-mir-5002",11
+"UGT1A7","fluconazole","hsa-mir-5002",11
+"UGT1A7","ketoconazole","hsa-mir-5002",11
+"UGT1A7","nicotine","hsa-mir-5002",11
+"UGT1A7","indinavir","hsa-mir-5002",11
+"UGT1A7","xenobiotics","hsa-mir-5002",11
+"ADORA1","methotrexate","hsa-mir-3127",10
+"ADORA1","dpcpx","hsa-mir-3127",10
+"ADORA1","infliximab","hsa-mir-3127",10
+"ADORA1","adalimumab","hsa-mir-3127",10
+"ADORA1","thiazolidinediones","hsa-mir-3127",10
+"ADORA1","estradiol","hsa-mir-3127",10
+"ADORA1","fulvestrant","hsa-mir-3127",10
+"ADORA1","caffeine","hsa-mir-3127",10
+"ADORA1","adenosine","hsa-mir-3127",10
+"ADORA1","theophylline","hsa-mir-3127",10
+"ATG4C","sirolimus","hsa-mir-205",10
+"BCL2L1","cisplatin","hsa-mir-95",10
+"BCL2L1","gemcitabine","hsa-mir-95",10
+"BCL2L1","tacrolimus","hsa-mir-95",10
+"BCL2L1","docetaxel","hsa-mir-95",10
+"BCL2L1","busulfan","hsa-mir-95",10
+"BCL2L1","lecithin","hsa-mir-95",10
+"BCL2L1","mercaptopurine","hsa-mir-95",10
+"BCL2L1","azathioprine","hsa-mir-95",10
+"EIF2B5","sirolimus","hsa-mir-3926-2",10
+"HDAC9","cyclosporine","hsa-mir-205",10
+"HDAC9","tacrolimus","hsa-mir-205",10
+"IMPA2","lithium","hsa-mir-6882",10
+"MLH1","cisplatin","hsa-mir-3926-2",10
+"MLH1","fluorouracil","hsa-mir-3926-2",10
+"MLH1","docetaxel","hsa-mir-3926-2",10
+"MLH1","dacarbazine","hsa-mir-3926-2",10
+"MLH1","leucovorin","hsa-mir-3926-2",10
+"MLH1","pyrimidine analogues","hsa-mir-3926-2",10
+"MLH1","antineoplastic agents","hsa-mir-3926-2",10
+"MLH1","procarbazine","hsa-mir-3926-2",10
+"MLH1","levamisole","hsa-mir-3926-2",10
+"MXD1","conjugated estrogens","hsa-mir-3173",10
+"MXD1","estradiol","hsa-mir-3173",10
+"MXD1","estrone","hsa-mir-3173",10
+"MXD1","estrogens","hsa-mir-3173",10
+"MXD1","chlorotrianisene","hsa-mir-3173",10
+"MXD1","dienestrol","hsa-mir-3173",10
+"MXD1","diethylstilbestrol","hsa-mir-3173",10
+"MXD1","ethinyl estradiol","hsa-mir-3173",10
+"PDE3A","desipramine","hsa-mir-205",10
+"PDE3A","adenosine monophosphate","hsa-mir-205",10
+"PDE3A","l-arginine","hsa-mir-205",10
+"PDE3A","l-citrulline","hsa-mir-205",10
+"PDE3A","nitric oxide","hsa-mir-205",10
+"PDE3A","fluoxetine","hsa-mir-205",10
+"PGF","l-arginine","hsa-mir-6882",10
+"PGF","nitric oxide","hsa-mir-6882",10
+"PLCB1","aspirin","hsa-mir-3940",10
+"PLCB1","beta blocking agents","hsa-mir-3940",10
+"PLCB1","dopamine","hsa-mir-3940",10
+"PLCB1","adenosine triphosphate","hsa-mir-3940",10
+"PLCB1","l-arginine","hsa-mir-3940",10
+"PLCB1","nitric oxide","hsa-mir-3940",10
+"PLCB1","nifedipine","hsa-mir-3940",10
+"PLCB1","dinoprostone","hsa-mir-3940",10
+"PLCB1","epoprostenol","hsa-mir-3940",10
+"PLCB1","epoxides","hsa-mir-3940",10
+"PTK2B","valinomycin","hsa-mir-15a",10
+"PTK2B","cyclosporine","hsa-mir-15a",10
+"PTK2B","tacrolimus","hsa-mir-15a",10
+"PTK2B","dopamine","hsa-mir-15a",10
+"PTK2B","chloroquine","hsa-mir-15a",10
+"PTK2B","l-arginine","hsa-mir-15a",10
+"PTK2B","nitric oxide","hsa-mir-15a",10
+"PTK2B","colchicine","hsa-mir-15a",10
+"PTK2B","glucocorticoids","hsa-mir-15a",10
+"RASSF1","azacitidine","hsa-mir-6882",10
+"RPE65","lecithin","hsa-mir-6882",10
+"RPS6KB1","metformin","hsa-mir-4326",10
+"RPS6KB1","cyclosporine","hsa-mir-4326",10
+"RPS6KB1","rosiglitazone","hsa-mir-4326",10
+"RPS6KB1","tacrolimus","hsa-mir-4326",10
+"RPS6KB1","sirolimus","hsa-mir-4326",10
+"RPS6KB1","tretinoin","hsa-mir-4326",10
+"RPS6KB1","imatinib","hsa-mir-4326",10
+"RPS6KB1","l-arginine","hsa-mir-4326",10
+"RPS6KB1","nitric oxide","hsa-mir-4326",10
+"RPS6KB1","choline","hsa-mir-4326",10
+"RRAS2","tamoxifen","hsa-mir-6882",10
+"SERPINB5","tretinoin","hsa-mir-205",10
+"SHC1","valinomycin","hsa-mir-331",10
+"SHC1","cyclosporine","hsa-mir-331",10
+"SHC1","tacrolimus","hsa-mir-331",10
+"SHC1","imatinib","hsa-mir-331",10
+"SHC1","adenosine triphosphate","hsa-mir-331",10
+"SHC1","chloroquine","hsa-mir-331",10
+"SHC1","l-arginine","hsa-mir-331",10
+"SHC1","l-citrulline","hsa-mir-331",10
+"SHC1","nitric oxide","hsa-mir-331",10
+"SHC1","choline","hsa-mir-331",10
+"SOS1","valinomycin","hsa-mir-5694",10
+"SOS1","cyclosporine","hsa-mir-5694",10
+"SOS1","tacrolimus","hsa-mir-5694",10
+"SOS1","imatinib","hsa-mir-5694",10
+"SOS1","adenosine triphosphate","hsa-mir-5694",10
+"SOS1","chloroquine","hsa-mir-5694",10
+"SOS1","l-arginine","hsa-mir-5694",10
+"SOS1","l-citrulline","hsa-mir-5694",10
+"SOS1","nitric oxide","hsa-mir-5694",10
+"STAT2","interferon alfacon-1","hsa-mir-15a",10
+"TGFB1","oltipraz","hsa-mir-6882",10
+"TGFB1","tretinoin","hsa-mir-6882",10
+"TGFB1","losartan","hsa-mir-6882",10
+"TGFB1","irbesartan","hsa-mir-6882",10
+"TMED10","glatiramer acetate","hsa-mir-3173",10
+"TMED10","antiinflammatory and antirheumatic products; non-steroids","hsa-mir-3173",10
+"VAV3","gemcitabine","hsa-mir-95",10
+"VAV3","cytarabine","hsa-mir-95",10
+"YWHAQ","tacrolimus","hsa-mir-5694",10
+"ADCY2","salmeterol","hsa-mir-942",9
+"ADCY2","fluticasone/salmeterol","hsa-mir-942",9
+"ADCY2","exenatide","hsa-mir-942",9
+"ADCY6","salmeterol","hsa-mir-3074",9
+"ADCY6","fluticasone/salmeterol","hsa-mir-3074",9
+"ADCY6","exenatide","hsa-mir-3074",9
+"AKT3","docetaxel","hsa-mir-3074",9
+"ARHGEF2","pp2","hsa-mir-3074",9
+"BDNF","antidepressants","hsa-mir-4793",9
+"BDNF","risperidone","hsa-mir-4793",9
+"BDNF","chlorpromazine","hsa-mir-4793",9
+"BDNF","antipsychotics","hsa-mir-4793",9
+"BDNF","chlordiazepoxide","hsa-mir-4793",9
+"BDNF","imipramine","hsa-mir-4793",9
+"BDNF","fluoxetine","hsa-mir-4793",9
+"BDNF","cocaine","hsa-mir-4793",9
+"BDNF","lithium","hsa-mir-4793",9
+"CAP1","progesterone","hsa-mir-5684",9
+"CAP1","adenosine triphosphate","hsa-mir-5684",9
+"CBL","imatinib","hsa-mir-139",9
+"CBL","chloroquine","hsa-mir-139",9
+"CBL","l-arginine","hsa-mir-139",9
+"CBL","nitric oxide","hsa-mir-139",9
+"CBL","pp2","hsa-mir-139",9
+"CHRNA7","local anesthetics","hsa-mir-1291",9
+"CHRNA7","nicotine","hsa-mir-1291",9
+"CHRNA7","xenobiotics","hsa-mir-1291",9
+"CHRNA7","choline","hsa-mir-1291",9
+"CHRNA7","acetylcholine","hsa-mir-1291",9
+"CHRNA7","trimethaphan","hsa-mir-1291",9
+"CHRNA7","varenicline","hsa-mir-1291",9
+"COL4A3","adenosine monophosphate","hsa-mir-186",9
+"COL4A3","adenosine triphosphate","hsa-mir-186",9
+"COL4A3","epinephrine","hsa-mir-186",9
+"FDPS","raloxifene","hsa-mir-130a",9
+"FDPS","bisphosphonates","hsa-mir-130a",9
+"FDPS","pamidronate","hsa-mir-130a",9
+"FDPS","zoledronate","hsa-mir-130a",9
+"FDPS","alendronate","hsa-mir-130a",9
+"FDPS","ibandronate","hsa-mir-130a",9
+"FDPS","risedronate","hsa-mir-130a",9
+"FLOT1","carbamazepine","hsa-mir-130a",9
+"FLOT1","phenytoin","hsa-mir-130a",9
+"FRK","methotrexate","hsa-mir-3074",9
+"FRK","mercaptopurine","hsa-mir-3074",9
+"GNA13","l-arginine","hsa-mir-186",9
+"GNA13","nitric oxide","hsa-mir-186",9
+"GNB5","lecithin","hsa-mir-432",9
+"GNB5","l-arginine","hsa-mir-432",9
+"GNB5","nitric oxide","hsa-mir-432",9
+"HDAC4","methotrexate","hsa-mir-3074",9
+"HDAC4","5-fluoroucil","hsa-mir-3074",9
+"PCSK9","fluvastatin","hsa-mir-186",9
+"PCSK9","hmg coa reductase inhibitors","hsa-mir-186",9
+"PCSK9","metoprolol","hsa-mir-186",9
+"PDE5A","desipramine","hsa-mir-1291",9
+"PDE5A","fluoxetine","hsa-mir-1291",9
+"PDE8A","desipramine","hsa-mir-432",9
+"PDE8A","fluoxetine","hsa-mir-432",9
+"PON1","risperidone","hsa-mir-1185-1",9
+"PON1","etanercept","hsa-mir-1185-1",9
+"PON1","infliximab","hsa-mir-1185-1",9
+"PON1","adalimumab","hsa-mir-1185-1",9
+"PON1","atorvastatin","hsa-mir-1185-1",9
+"PON1","hmg coa reductase inhibitors","hsa-mir-1185-1",9
+"PON1","ethanol","hsa-mir-1185-1",9
+"PON1","clopidogrel","hsa-mir-1185-1",9
+"PON1","pesticides","hsa-mir-1185-1",9
+"PPP3CA","cyclosporine","hsa-mir-410",9
+"PPP3CA","tacrolimus","hsa-mir-410",9
+"PPP3CA","dopamine","hsa-mir-410",9
+"PPP3CA","adenosine triphosphate","hsa-mir-410",9
+"PPP3CA","l-arginine","hsa-mir-410",9
+"PPP3CA","l-citrulline","hsa-mir-410",9
+"PPP3CA","nitric oxide","hsa-mir-410",9
+"RRM1","cisplatin","hsa-mir-942",9
+"RRM1","fluorouracil","hsa-mir-942",9
+"RRM1","gemcitabine","hsa-mir-942",9
+"RRM1","cytarabine","hsa-mir-942",9
+"RRM1","capecitabine","hsa-mir-942",9
+"RRM1","l-glutamine","hsa-mir-942",9
+"RRM2","cisplatin","hsa-mir-5003",9
+"RRM2","fluorouracil","hsa-mir-5003",9
+"RRM2","gemcitabine","hsa-mir-5003",9
+"RRM2","cytarabine","hsa-mir-5003",9
+"RRM2","capecitabine","hsa-mir-5003",9
+"RRM2","l-glutamine","hsa-mir-5003",9
+"RRM2","ibuprofen","hsa-mir-5003",9
+"RXRA","pioglitazone","hsa-mir-3928",9
+"RXRA","rosiglitazone","hsa-mir-3928",9
+"RXRA","thiazolidinediones","hsa-mir-3928",9
+"RXRA","troglitazone","hsa-mir-3928",9
+"RXRA","tretinoin","hsa-mir-3928",9
+"RXRA","torcetrapib","hsa-mir-3928",9
+"RXRA","hydrocortisone","hsa-mir-3928",9
+"RXRA","triglycerides","hsa-mir-3928",9
+"S100A9","methotrexate","hsa-mir-5003",9
+"S100A9","mercaptopurine","hsa-mir-5003",9
+"SCN2B","warfarin","hsa-mir-432",9
+"SCN2B","beta blocking agents; selective","hsa-mir-432",9
+"SCN2B","antiarrhythmics; class i and iii","hsa-mir-432",9
+"ST6GAL1","flucloxacillin","hsa-mir-186",9
+"ST6GAL1","flucloxacillin","hsa-mir-3928",9
+"TLR7","imiquimod","hsa-mir-432",9
+"TOP1","cisplatin","hsa-mir-5684",9
+"TOP1","irinotecan","hsa-mir-5684",9
+"TOP1","sn-38","hsa-mir-5684",9
+"TOP1","antineoplastic agents","hsa-mir-5684",9
+"TOP1","camptothecin","hsa-mir-5684",9
+"UBE2I","cisplatin","hsa-mir-139",9
+"UBE2I","irinotecan","hsa-mir-139",9
+"UBE2I","adenosine monophosphate","hsa-mir-139",9
+"UBE2I","adenosine triphosphate","hsa-mir-139",9
+"UNG","fluorouracil","hsa-mir-5684",9
+"UNG","antineoplastic agents","hsa-mir-5684",9
+"VAV3","gemcitabine","hsa-mir-410",9
+"VAV3","cytarabine","hsa-mir-410",9
+"VCAM1","fluticasone propionate","hsa-mir-487a",9
+"VCAM1","budesonide","hsa-mir-487a",9
+"VCAM1","l-arginine","hsa-mir-487a",9
+"VCAM1","nitric oxide","hsa-mir-487a",9
+"VCAM1","glucocorticoids","hsa-mir-487a",9
+"VCAM1","mometasone","hsa-mir-487a",9
+"VCAM1","triamcinolone","hsa-mir-487a",9
+"VCAM1","beclomethasone","hsa-mir-487a",9
+"VCAM1","levonorgestrel","hsa-mir-487a",9
+"APLNR","conjugated estrogens","hsa-mir-6739",8
+"APLNR","estradiol","hsa-mir-6739",8
+"APLNR","estrone","hsa-mir-6739",8
+"APLNR","estrogens","hsa-mir-6739",8
+"APLNR","chlorotrianisene","hsa-mir-6739",8
+"APLNR","dienestrol","hsa-mir-6739",8
+"APLNR","diethylstilbestrol","hsa-mir-6739",8
+"APLNR","ethinyl estradiol","hsa-mir-6739",8
+"CDKN1B","metformin","hsa-mir-27a",8
+"CDKN1B","gemcitabine","hsa-mir-27a",8
+"CDKN1B","tamoxifen","hsa-mir-27a",8
+"CDKN1B","docetaxel","hsa-mir-27a",8
+"CDKN1B","trastuzumab","hsa-mir-27a",8
+"CDKN1B","celecoxib","hsa-mir-27a",8
+"CDKN1B","pravastatin","hsa-mir-27a",8
+"CDKN1B","ibuprofen","hsa-mir-27a",8
+"CFH","resveratrol","hsa-mir-204",8
+"CFH","pyrollidine dithiocarbamate","hsa-mir-204",8
+"CPT2","simvastatin","hsa-mir-665",8
+"CPT2","rosuvastatin","hsa-mir-665",8
+"CPT2","atorvastatin","hsa-mir-665",8
+"CPT2","pravastatin","hsa-mir-665",8
+"CPT2","fluvastatin","hsa-mir-665",8
+"CPT2","cerivastatin","hsa-mir-665",8
+"FDPS","raloxifene","hsa-mir-3140",8
+"FDPS","bisphosphonates","hsa-mir-3140",8
+"FDPS","pamidronate","hsa-mir-3140",8
+"FDPS","zoledronate","hsa-mir-3140",8
+"FDPS","alendronate","hsa-mir-3140",8
+"FDPS","ibandronate","hsa-mir-3140",8
+"FDPS","risedronate","hsa-mir-3140",8
+"GDF10","methotrexate","hsa-mir-204",8
+"GDF10","mercaptopurine","hsa-mir-204",8
+"GPC1","nitric oxide","hsa-mir-338",8
+"IL1A","adenosine triphosphate","hsa-mir-20a",8
+"IL1A","glutathione","hsa-mir-20a",8
+"IL1A","dexamethasone","hsa-mir-20a",8
+"IL1A","glucocorticoids","hsa-mir-20a",8
+"INPPL1","sirolimus","hsa-mir-1306",8
+"LAMA1","nitric oxide","hsa-mir-3140",8
+"MAPT","paclitaxel","hsa-mir-323b",8
+"MAPT","paclitaxel","hsa-mir-24-1",8
+"MAPT","docetaxel","hsa-mir-323b",8
+"MAPT","docetaxel","hsa-mir-24-1",8
+"MAPT","selective beta-2-adrenoreceptor agonists","hsa-mir-323b",8
+"MAPT","selective beta-2-adrenoreceptor agonists","hsa-mir-24-1",8
+"MAPT","salbutamol","hsa-mir-323b",8
+"MAPT","salbutamol","hsa-mir-24-1",8
+"MAPT","antineoplastic agents","hsa-mir-323b",8
+"MAPT","antineoplastic agents","hsa-mir-24-1",8
+"MAPT","carboplatin","hsa-mir-323b",8
+"MAPT","carboplatin","hsa-mir-24-1",8
+"MAPT","lithium","hsa-mir-323b",8
+"MAPT","lithium","hsa-mir-24-1",8
+"MAPT","pp2","hsa-mir-323b",8
+"MAPT","pp2","hsa-mir-24-1",8
+"MET","doxorubicin","hsa-mir-1306",8
+"MET","lapatinib","hsa-mir-1306",8
+"MET","gefitinib","hsa-mir-1306",8
+"MET","erlotinib","hsa-mir-1306",8
+"MET","pha-665752","hsa-mir-1306",8
+"MET","trail","hsa-mir-1306",8
+"MYO5B","cisplatin","hsa-mir-1306",8
+"PDE3B","adenosine monophosphate","hsa-mir-204",8
+"PDE3B","l-arginine","hsa-mir-204",8
+"PDE3B","l-citrulline","hsa-mir-204",8
+"PDE3B","nitric oxide","hsa-mir-204",8
+"PGM1","cisplatin","hsa-mir-338",8
+"PIM1","doxorubicin","hsa-mir-600",8
+"PIM1","tacrolimus","hsa-mir-600",8
+"PRKCE","gemcitabine","hsa-mir-600",8
+"PRKCE","flumazenil","hsa-mir-600",8
+"PRKCE","adenosine triphosphate","hsa-mir-600",8
+"PRKCE","ethanol","hsa-mir-600",8
+"PRKCE","nitroprusside","hsa-mir-600",8
+"PRKCE","nitroglycerin","hsa-mir-600",8
+"PTGIS","celecoxib","hsa-mir-338",8
+"PTGIS","dinoprostone","hsa-mir-338",8
+"PTGIS","coxibs","hsa-mir-338",8
+"PTGIS","epoprostenol","hsa-mir-338",8
+"PTGIS","epoxides","hsa-mir-338",8
+"RAPGEF4","tolbutamide","hsa-mir-376a-1",8
+"RAPGEF4","exenatide","hsa-mir-376a-1",8
+"RDX","methotrexate","hsa-mir-665",8
+"RDX","mercaptopurine","hsa-mir-665",8
+"SPRED1","imatinib","hsa-mir-338",8
+"TOP2A","cisplatin","hsa-mir-376a-1",8
+"TOP2A","gemcitabine","hsa-mir-376a-1",8
+"TOP2A","doxorubicin","hsa-mir-376a-1",8
+"TOP2A","etoposide","hsa-mir-376a-1",8
+"TOP2A","thioguanine","hsa-mir-376a-1",8
+"TOP2A","epirubicin","hsa-mir-376a-1",8
+"TRPV4","adenosine triphosphate","hsa-mir-20a",8
+"TRPV4","l-arginine","hsa-mir-20a",8
+"TRPV4","l-citrulline","hsa-mir-20a",8
+"TRPV4","nitric oxide","hsa-mir-20a",8
+"TUBA8","conjugated estrogens","hsa-mir-34b",8
+"TUBA8","estradiol","hsa-mir-34b",8
+"TUBA8","estrone","hsa-mir-34b",8
+"TUBA8","estrogens","hsa-mir-34b",8
+"TUBA8","chlorotrianisene","hsa-mir-34b",8
+"TUBA8","dienestrol","hsa-mir-34b",8
+"TUBA8","diethylstilbestrol","hsa-mir-34b",8
+"TUBA8","ethinyl estradiol","hsa-mir-34b",8
+"WT1","conjugated estrogens","hsa-mir-23c",8
+"WT1","conjugated estrogens","hsa-mir-493",8
+"WT1","estradiol","hsa-mir-23c",8
+"WT1","estradiol","hsa-mir-493",8
+"WT1","estrone","hsa-mir-23c",8
+"WT1","estrone","hsa-mir-493",8
+"WT1","estrogens","hsa-mir-23c",8
+"WT1","estrogens","hsa-mir-493",8
+"WT1","chlorotrianisene","hsa-mir-23c",8
+"WT1","chlorotrianisene","hsa-mir-493",8
+"WT1","dienestrol","hsa-mir-23c",8
+"WT1","dienestrol","hsa-mir-493",8
+"WT1","diethylstilbestrol","hsa-mir-23c",8
+"WT1","diethylstilbestrol","hsa-mir-493",8
+"WT1","ethinyl estradiol","hsa-mir-23c",8
+"WT1","ethinyl estradiol","hsa-mir-493",8
+"ACACB","hmg coa reductase inhibitors","hsa-mir-4420",7
+"ACTA1","cyclosporine","hsa-mir-1180",7
+"ACTA1","tacrolimus","hsa-mir-1180",7
+"ACTA1","glutathione","hsa-mir-1180",7
+"ACTA1","l-arginine","hsa-mir-1180",7
+"ACTA1","l-citrulline","hsa-mir-1180",7
+"ACTA1","nitric oxide","hsa-mir-1180",7
+"ADRA2C","yohimbine","hsa-mir-30c-2",7
+"ARL4C","methotrexate","hsa-mir-5699",7
+"ARL4C","mercaptopurine","hsa-mir-5699",7
+"BIRC2","busulfan","hsa-mir-5699",7
+"CDK6","cisplatin","hsa-mir-19a",7
+"CDK6","antineoplastic agents","hsa-mir-19a",7
+"CDKN2A","cisplatin","hsa-mir-5699",7
+"CDKN2A","gemcitabine","hsa-mir-5699",7
+"CDKN2A","troglitazone","hsa-mir-5699",7
+"CDKN2A","busulfan","hsa-mir-5699",7
+"CHRNA7","local anesthetics","hsa-mir-193a",7
+"CHRNA7","nicotine","hsa-mir-193a",7
+"CHRNA7","xenobiotics","hsa-mir-193a",7
+"CHRNA7","choline","hsa-mir-193a",7
+"CHRNA7","acetylcholine","hsa-mir-193a",7
+"CHRNA7","trimethaphan","hsa-mir-193a",7
+"CHRNA7","varenicline","hsa-mir-193a",7
+"DUSP1","letrozole","hsa-mir-874",7
+"DUSP1","salbutamol","hsa-mir-874",7
+"DUSP1","corticosteroids","hsa-mir-874",7
+"DUSP1","dexamethasone","hsa-mir-874",7
+"DUSP1","glucocorticoids","hsa-mir-874",7
+"DUSP1","prednisolone","hsa-mir-874",7
+"DUSP1","beclomethasone","hsa-mir-874",7
+"GAB1","lapatinib","hsa-mir-6894",7
+"GAB1","gefitinib","hsa-mir-6894",7
+"GAB1","imatinib","hsa-mir-6894",7
+"GAB1","l-arginine","hsa-mir-6894",7
+"GAB1","nitric oxide","hsa-mir-6894",7
+"GAB1","erlotinib","hsa-mir-6894",7
+"GAB1","pha-665752","hsa-mir-6894",7
+"HNMT","histamine phosphate","hsa-mir-19a",7
+"HNMT","mercaptopurine","hsa-mir-19a",7
+"HNMT","xenobiotics","hsa-mir-19a",7
+"HNMT","epinephrine","hsa-mir-19a",7
+"HNMT","3-4-methylenedioxymethamphetamine","hsa-mir-19a",7
+"ICAM1","tretinoin","hsa-mir-33a",7
+"ICAM1","l-arginine","hsa-mir-33a",7
+"ICAM1","nitric oxide","hsa-mir-33a",7
+"ICAM1","glucocorticoids","hsa-mir-33a",7
+"ICAM1","mometasone","hsa-mir-33a",7
+"IGFBP3","fluorouracil","hsa-mir-1245a",7
+"IGFBP3","oxaliplatin","hsa-mir-1245a",7
+"IGFBP3","irinotecan","hsa-mir-1245a",7
+"IGFBP3","bevacizumab","hsa-mir-1245a",7
+"IGFBP3","leucovorin","hsa-mir-1245a",7
+"IGFBP3","celecoxib","hsa-mir-1245a",7
+"NPM1","daunorubicin","hsa-mir-3909",7
+"NPM1","cytarabine","hsa-mir-3909",7
+"NPM1","imatinib","hsa-mir-3909",7
+"NPM1","etoposide","hsa-mir-3909",7
+"NPM1","mitoxantrone","hsa-mir-3909",7
+"NPM1","vincristine","hsa-mir-3909",7
+"PARD6B","cisplatin","hsa-mir-1180",7
+"PPP2R2C","lithium","hsa-mir-3909",7
+"PRKAA1","metformin","hsa-mir-1343",7
+"PRKAA1","pioglitazone","hsa-mir-1343",7
+"PRKAA1","rosiglitazone","hsa-mir-1343",7
+"PRKAA1","adenosine monophosphate","hsa-mir-1343",7
+"PRKAA1","adenosine triphosphate","hsa-mir-1343",7
+"PRKAA1","glucose","hsa-mir-1343",7
+"PRKAA1","phenobarbital","hsa-mir-1343",7
+"PSMB8","interferon alfacon-1","hsa-mir-4420",7
+"PSMB8","interferon beta-1b","hsa-mir-4420",7
+"RORA","lamivudine","hsa-mir-1245a",7
+"RRM2","cisplatin","hsa-mir-518e",7
+"RRM2","fluorouracil","hsa-mir-518e",7
+"RRM2","gemcitabine","hsa-mir-518e",7
+"RRM2","cytarabine","hsa-mir-518e",7
+"RRM2","capecitabine","hsa-mir-518e",7
+"RRM2","l-glutamine","hsa-mir-518e",7
+"RRM2","ibuprofen","hsa-mir-518e",7
+"TBX21","budesonide","hsa-mir-30c-2",7
+"TBX21","selective beta-2-adrenoreceptor agonists","hsa-mir-30c-2",7
+"TBX21","desipramine","hsa-mir-30c-2",7
+"TBX21","fluoxetine","hsa-mir-30c-2",7
+"TBX21","salbutamol","hsa-mir-30c-2",7
+"TBX21","nedocromil","hsa-mir-30c-2",7
+"XIAP","cisplatin","hsa-mir-4420",7
+"XIAP","busulfan","hsa-mir-4420",7
+"XIAP","vincristine","hsa-mir-4420",7
+"XIAP","fludarabine","hsa-mir-4420",7
+"YES1","l-arginine","hsa-mir-33a",7
+"YES1","nitric oxide","hsa-mir-33a",7
+"BAX","cisplatin","hsa-mir-92a-2",6
+"BAX","cisplatin","hsa-mir-92a-1",6
+"BAX","gemcitabine","hsa-mir-92a-2",6
+"BAX","gemcitabine","hsa-mir-92a-1",6
+"BAX","methotrexate","hsa-mir-92a-2",6
+"BAX","methotrexate","hsa-mir-92a-1",6
+"BAX","tacrolimus","hsa-mir-92a-2",6
+"BAX","tacrolimus","hsa-mir-92a-1",6
+"BAX","glutathione","hsa-mir-92a-2",6
+"BAX","glutathione","hsa-mir-92a-1",6
+"BAX","mercaptopurine","hsa-mir-92a-2",6
+"BAX","mercaptopurine","hsa-mir-92a-1",6
+"CHRNA3","local anesthetics","hsa-mir-4657",6
+"CHRNA3","nicotine","hsa-mir-4657",6
+"CHRNA3","xenobiotics","hsa-mir-4657",6
+"CHRNA3","acetylcholine","hsa-mir-4657",6
+"CHRNA3","trimethaphan","hsa-mir-4657",6
+"CHRNA3","varenicline","hsa-mir-4657",6
+"CHRNB2","galantamine","hsa-mir-101-2",6
+"CHRNB2","galantamine","hsa-mir-101-1",6
+"CHRNB2","bupropion","hsa-mir-101-2",6
+"CHRNB2","bupropion","hsa-mir-101-1",6
+"CHRNB2","nicotine","hsa-mir-101-2",6
+"CHRNB2","nicotine","hsa-mir-101-1",6
+"CHRNB2","varenicline","hsa-mir-101-2",6
+"CHRNB2","varenicline","hsa-mir-101-1",6
+"ESR2","tamoxifen","hsa-mir-223",6
+"ESR2","l-arginine","hsa-mir-223",6
+"ESR2","nitric oxide","hsa-mir-223",6
+"ESR2","alendronate","hsa-mir-223",6
+"F5","tamoxifen","hsa-mir-4662a",6
+"F5","estrogens","hsa-mir-4662a",6
+"F5","pravastatin","hsa-mir-4662a",6
+"F5","hormonal contraceptives for systemic use","hsa-mir-4662a",6
+"F5","drotrecogin alfa","hsa-mir-4662a",6
+"F5","verteporfin","hsa-mir-4662a",6
+"FOXO3","doxorubicin","hsa-mir-556",6
+"FOXO3","paclitaxel","hsa-mir-556",6
+"FOXO3","imatinib","hsa-mir-556",6
+"FOXO3","etoposide","hsa-mir-556",6
+"GPR162","selective beta-2-adrenoreceptor agonists","hsa-mir-223",6
+"GPR162","salbutamol","hsa-mir-223",6
+"IGFBP3","fluorouracil","hsa-mir-6788",6
+"IGFBP3","oxaliplatin","hsa-mir-6788",6
+"IGFBP3","irinotecan","hsa-mir-6788",6
+"IGFBP3","bevacizumab","hsa-mir-6788",6
+"IGFBP3","leucovorin","hsa-mir-6788",6
+"IGFBP3","celecoxib","hsa-mir-6788",6
+"JAM3","phospholipids","hsa-mir-4677",6
+"LRRC32","cisplatin","hsa-mir-4677",6
+"MAP4K4","glutathione","hsa-mir-101-1",6
+"MAP4K4","glutathione","hsa-mir-101-2",6
+"MAP4K4","dexamethasone","hsa-mir-101-1",6
+"MAP4K4","dexamethasone","hsa-mir-101-2",6
+"PARP1","gemcitabine","hsa-mir-23b",6
+"PARP1","irinotecan","hsa-mir-23b",6
+"PARP1","thalidomide","hsa-mir-23b",6
+"PARP1","olaparib","hsa-mir-23b",6
+"PARP1","antineoplastic agents","hsa-mir-23b",6
+"PARP1","bsi-201","hsa-mir-23b",6
+"PDE2A","desipramine","hsa-mir-26b",6
+"PDE2A","adenosine monophosphate","hsa-mir-26b",6
+"PDE2A","l-arginine","hsa-mir-26b",6
+"PDE2A","l-citrulline","hsa-mir-26b",6
+"PDE2A","nitric oxide","hsa-mir-26b",6
+"PDE2A","fluoxetine","hsa-mir-26b",6
+"PDE3A","desipramine","hsa-mir-552",6
+"PDE3A","adenosine monophosphate","hsa-mir-552",6
+"PDE3A","l-arginine","hsa-mir-552",6
+"PDE3A","l-citrulline","hsa-mir-552",6
+"PDE3A","nitric oxide","hsa-mir-552",6
+"PDE3A","fluoxetine","hsa-mir-552",6
+"PDGFRB","cisplatin","hsa-mir-1-2",6
+"PDGFRB","gefitinib","hsa-mir-1-2",6
+"PDGFRB","imatinib","hsa-mir-1-2",6
+"PDGFRB","sunitinib","hsa-mir-1-2",6
+"PDGFRB","pazopanib","hsa-mir-1-2",6
+"PDK2","sirolimus","hsa-mir-152",6
+"PPM1H","selective beta-2-adrenoreceptor agonists","hsa-mir-556",6
+"PPM1H","salbutamol","hsa-mir-556",6
+"RCC1","methotrexate","hsa-mir-4677",6
+"RCC1","mercaptopurine","hsa-mir-4677",6
+"RIMS1","dopamine","hsa-mir-152",6
+"RIMS1","choline","hsa-mir-152",6
+"RIMS1","l-glutamine","hsa-mir-152",6
+"RIMS1","l-leucine","hsa-mir-152",6
+"RIMS1","vitamin c","hsa-mir-152",6
+"RXRB","tretinoin","hsa-mir-503",6
+"SH3KBP1","chloroquine","hsa-mir-1-2",6
+"SHMT1","methotrexate","hsa-mir-503",6
+"SHMT1","folic acid","hsa-mir-503",6
+"SHMT1","cyanocobalamin","hsa-mir-503",6
+"SHMT1","glycine","hsa-mir-503",6
+"SHMT1","l-serine","hsa-mir-503",6
+"SOD2","cyclophosphamide","hsa-mir-214",6
+"SOD2","estradiol","hsa-mir-214",6
+"SOD2","anthracyclines and related substances","hsa-mir-214",6
+"SOD2","tamoxifen","hsa-mir-214",6
+"SOD2","epirubicin","hsa-mir-214",6
+"SV2A","levetiracetam","hsa-mir-214",6
+"VCL","l-arginine","hsa-mir-4677",6
+"VCL","nitric oxide","hsa-mir-4677",6
+"ABL1","cisplatin","hsa-mir-2355",5
+"ABL1","gefitinib","hsa-mir-2355",5
+"ABL1","imatinib","hsa-mir-2355",5
+"ANPEP","methotrexate","hsa-mir-9-1",5
+"ANPEP","cytarabine","hsa-mir-9-1",5
+"ANPEP","adalimumab","hsa-mir-9-1",5
+"APC","fluorouracil","hsa-mir-6892",5
+"APC","paclitaxel","hsa-mir-6892",5
+"APC","leucovorin","hsa-mir-6892",5
+"APC","levamisole","hsa-mir-6892",5
+"ARF4","methotrexate","hsa-mir-4782",5
+"ARF4","mercaptopurine","hsa-mir-4782",5
+"ARHGAP10","choline","hsa-mir-6892",5
+"CALM1","tacrolimus","hsa-mir-1256",5
+"CALM1","l-arginine","hsa-mir-1256",5
+"CALM1","nitric oxide","hsa-mir-1256",5
+"CALM1","glucose","hsa-mir-1256",5
+"CALM1","tetrahydrobiopterin","hsa-mir-1256",5
+"CBL","imatinib","hsa-mir-1468",5
+"CBL","chloroquine","hsa-mir-1468",5
+"CBL","l-arginine","hsa-mir-1468",5
+"CBL","nitric oxide","hsa-mir-1468",5
+"CBL","pp2","hsa-mir-1468",5
+"CDC25C","lapatinib","hsa-mir-495",5
+"CDC25C","progesterone","hsa-mir-495",5
+"CDC25C","adenosine triphosphate","hsa-mir-495",5
+"CDC25C","antineoplastic agents","hsa-mir-495",5
+"CDC25C","ibuprofen","hsa-mir-495",5
+"CDC42","lecithin","hsa-mir-4782",5
+"CDC42","l-arginine","hsa-mir-4782",5
+"CDC42","nitric oxide","hsa-mir-4782",5
+"CHUK","imiquimod","hsa-mir-9-1",5
+"CHUK","lecithin","hsa-mir-9-1",5
+"CLTA","choline","hsa-mir-4665",5
+"CSF1","cisplatin","hsa-mir-548o",5
+"CSF1","glucocorticoids","hsa-mir-548o",5
+"CSF1","taxol","hsa-mir-548o",5
+"CSNK2A1","valinomycin","hsa-mir-196a-1",5
+"CSNK2A1","cyclosporine","hsa-mir-196a-1",5
+"CSNK2A1","tacrolimus","hsa-mir-196a-1",5
+"CSNK2A1","dopamine","hsa-mir-196a-1",5
+"CSNK2A1","colchicine","hsa-mir-196a-1",5
+"ELF2","l-arginine","hsa-mir-1270",5
+"ELF2","nitric oxide","hsa-mir-1270",5
+"ELF2","choline","hsa-mir-1270",5
+"FGF9","methotrexate","hsa-mir-628",5
+"FGF9","nicotine","hsa-mir-628",5
+"FGF9","mercaptopurine","hsa-mir-628",5
+"FGFR4","cisplatin","hsa-mir-378c",5
+"FGFR4","fluorouracil","hsa-mir-378c",5
+"FGFR4","methotrexate","hsa-mir-378c",5
+"FGFR4","cyclophosphamide","hsa-mir-378c",5
+"FGFR4","tamoxifen","hsa-mir-378c",5
+"FN1","l-arginine","hsa-mir-374c",5
+"FN1","nitric oxide","hsa-mir-374c",5
+"FN1","choline","hsa-mir-374c",5
+"FN1","phospholipids","hsa-mir-374c",5
+"FOXO1","l-arginine","hsa-mir-299",5
+"FOXO1","nitric oxide","hsa-mir-299",5
+"FOXO1","choline","hsa-mir-299",5
+"HNMT","histamine phosphate","hsa-mir-4791",5
+"HNMT","mercaptopurine","hsa-mir-4791",5
+"HNMT","xenobiotics","hsa-mir-4791",5
+"HNMT","epinephrine","hsa-mir-4791",5
+"HNMT","3-4-methylenedioxymethamphetamine","hsa-mir-4791",5
+"HOMER1","antidepressants","hsa-mir-409",5
+"HOMER1","cocaine","hsa-mir-409",5
+"ICAM1","tretinoin","hsa-mir-4449",5
+"ICAM1","l-arginine","hsa-mir-4449",5
+"ICAM1","nitric oxide","hsa-mir-4449",5
+"ICAM1","glucocorticoids","hsa-mir-4449",5
+"ICAM1","mometasone","hsa-mir-4449",5
+"IGF1R","trastuzumab","hsa-mir-4286",5
+"IGF1R","sirolimus","hsa-mir-4286",5
+"IGF1R","sorafenib","hsa-mir-4286",5
+"IGF1R","l-arginine","hsa-mir-4286",5
+"IGF1R","nitric oxide","hsa-mir-4286",5
+"IGFBP4","methotrexate","hsa-mir-4665",5
+"IGFBP4","mercaptopurine","hsa-mir-4665",5
+"IL12B","thalidomide","hsa-mir-7-1",5
+"IL12B","selective beta-2-adrenoreceptor agonists","hsa-mir-7-1",5
+"IL12B","salbutamol","hsa-mir-7-1",5
+"KCNJ11","repaglinide","hsa-mir-4748",5
+"KCNJ11","repaglinide","hsa-mir-142",5
+"KCNJ11","sulfonamides; urea derivatives","hsa-mir-4748",5
+"KCNJ11","sulfonamides; urea derivatives","hsa-mir-142",5
+"KCNJ11","biotin","hsa-mir-4748",5
+"KCNJ11","biotin","hsa-mir-142",5
+"KCNJ11","antiarrhythmics; class i and iii","hsa-mir-4748",5
+"KCNJ11","antiarrhythmics; class i and iii","hsa-mir-142",5
+"KCNJ11","diazoxide","hsa-mir-4748",5
+"KCNJ11","diazoxide","hsa-mir-142",5
+"MSH6","mercaptopurine","hsa-mir-3653",5
+"MSH6","prednisone","hsa-mir-3653",5
+"MSH6","antineoplastic agents","hsa-mir-3653",5
+"MTHFD2","methotrexate","hsa-mir-3653",5
+"MTHFD2","folic acid","hsa-mir-3653",5
+"NME1","fluorouracil","hsa-mir-3150b",5
+"NME1","adenosine triphosphate","hsa-mir-3150b",5
+"NME1","antineoplastic agents","hsa-mir-3150b",5
+"NME1","choline","hsa-mir-3150b",5
+"NME1","l-glutamine","hsa-mir-3150b",5
+"PARG","methotrexate","hsa-mir-4665",5
+"PARG","mercaptopurine","hsa-mir-4665",5
+"PLK1","doxorubicin","hsa-mir-1270",5
+"PLK1","docetaxel","hsa-mir-1270",5
+"PPP1R13L","cisplatin","hsa-mir-2355",5
+"PPP1R13L","cyclophosphamide","hsa-mir-2355",5
+"PXN","l-arginine","hsa-mir-4522",5
+"PXN","l-citrulline","hsa-mir-4522",5
+"PXN","nitric oxide","hsa-mir-4522",5
+"PXN","choline","hsa-mir-4522",5
+"RAB3A","dopamine","hsa-mir-181a-2",5
+"RAB3A","choline","hsa-mir-181a-2",5
+"RAB3A","l-glutamine","hsa-mir-181a-2",5
+"RAB3A","l-leucine","hsa-mir-181a-2",5
+"RAB3A","vitamin c","hsa-mir-181a-2",5
+"RAPGEF4","tolbutamide","hsa-mir-628",5
+"RAPGEF4","exenatide","hsa-mir-628",5
+"RIMS1","dopamine","hsa-mir-194-2",5
+"RIMS1","choline","hsa-mir-194-2",5
+"RIMS1","l-glutamine","hsa-mir-194-2",5
+"RIMS1","l-leucine","hsa-mir-194-2",5
+"RIMS1","vitamin c","hsa-mir-194-2",5
+"ROCK2","l-arginine","hsa-mir-548o",5
+"ROCK2","nitric oxide","hsa-mir-548o",5
+"RUNX2","teriparatide","hsa-mir-374c",5
+"S1PR1","l-arginine","hsa-mir-299",5
+"S1PR1","nitric oxide","hsa-mir-299",5
+"SHC2","l-arginine","hsa-mir-409",5
+"SHC2","nitric oxide","hsa-mir-409",5
+"SMPD1","glutathione","hsa-mir-7-1",5
+"STXBP4","glucose","hsa-mir-409",5
+"THRB","levothyroxine","hsa-mir-4522",5
+"TRAF6","imiquimod","hsa-mir-7-1",5
+"ADCY7","salmeterol","hsa-mir-605",4
+"ADCY7","fluticasone/salmeterol","hsa-mir-605",4
+"ADCY7","exenatide","hsa-mir-605",4
+"ADIPOR2","pioglitazone","hsa-mir-217",4
+"ADIPOR2","thiazolidinediones","hsa-mir-217",4
+"ADRA2B","dexmedetomidine","hsa-mir-218-2",4
+"BCAT1","l-glutamine","hsa-mir-6510",4
+"BCAT1","biotin","hsa-mir-6510",4
+"BCAT1","l-valine","hsa-mir-6510",4
+"BCAT1","l-leucine","hsa-mir-6510",4
+"BLMH","bleomycin","hsa-mir-3176",4
+"BMP1","methotrexate","hsa-mir-6718",4
+"BMP1","torcetrapib","hsa-mir-6718",4
+"BMP1","mercaptopurine","hsa-mir-6718",4
+"BMP1","phospholipids","hsa-mir-6718",4
+"CCL2","thiazolidinediones","hsa-mir-3176",4
+"CCL2","glucocorticoids","hsa-mir-3176",4
+"CCL2","prednisolone","hsa-mir-3176",4
+"CREM","desipramine","hsa-mir-4525",4
+"CREM","adenosine triphosphate","hsa-mir-4525",4
+"CSK","adenosine triphosphate","hsa-mir-22",4
+"CSK","l-arginine","hsa-mir-22",4
+"CSK","l-citrulline","hsa-mir-22",4
+"CSK","nitric oxide","hsa-mir-22",4
+"FN1","l-arginine","hsa-mir-126",4
+"FN1","nitric oxide","hsa-mir-126",4
+"FN1","choline","hsa-mir-126",4
+"FN1","phospholipids","hsa-mir-126",4
+"GLS","l-glutamine","hsa-mir-6758",4
+"GLS","l-leucine","hsa-mir-6758",4
+"GRIK2","citalopram","hsa-mir-3615",4
+"GRIK2","nicotine","hsa-mir-3615",4
+"H2AX","cisplatin","hsa-mir-3926-1",4
+"H2AX","camptothecin","hsa-mir-3926-1",4
+"H2AX","bleomycin","hsa-mir-3926-1",4
+"IL1A","adenosine triphosphate","hsa-mir-224",4
+"IL1A","glutathione","hsa-mir-224",4
+"IL1A","dexamethasone","hsa-mir-224",4
+"IL1A","glucocorticoids","hsa-mir-224",4
+"IQGAP1","l-arginine","hsa-mir-1296",4
+"IQGAP1","nitric oxide","hsa-mir-1296",4
+"IRS1","sirolimus","hsa-mir-675",4
+"IRS1","letrozole","hsa-mir-675",4
+"IRS1","sulfonamides; urea derivatives","hsa-mir-675",4
+"IRS1","insulin","hsa-mir-675",4
+"ITGA5","l-arginine","hsa-mir-148a",4
+"ITGA5","l-arginine","hsa-mir-4802",4
+"ITGA5","nitric oxide","hsa-mir-148a",4
+"ITGA5","nitric oxide","hsa-mir-4802",4
+"ITGA5","choline","hsa-mir-148a",4
+"ITGA5","choline","hsa-mir-4802",4
+"ITGA5","phospholipids","hsa-mir-148a",4
+"ITGA5","phospholipids","hsa-mir-4802",4
+"KHDRBS3","nicotine","hsa-mir-132",4
+"KHDRBS3","lamivudine","hsa-mir-132",4
+"LEP","risperidone","hsa-mir-330",4
+"LEP","olanzapine","hsa-mir-330",4
+"LEP","thalidomide","hsa-mir-330",4
+"LEP","ethanol","hsa-mir-330",4
+"MAP3K14","imiquimod","hsa-mir-605",4
+"MAPK11","sorafenib","hsa-mir-3934",4
+"MAPK11","l-arginine","hsa-mir-3934",4
+"MAPK11","nitric oxide","hsa-mir-3934",4
+"MAPK11","dexamethasone","hsa-mir-3934",4
+"MCM5","ibuprofen","hsa-mir-3926-1",4
+"MMP2","letrozole","hsa-mir-760",4
+"MMP2","l-arginine","hsa-mir-760",4
+"MMP2","nitric oxide","hsa-mir-760",4
+"MMP2","choline","hsa-mir-760",4
+"MTRR","methotrexate","hsa-mir-5698",4
+"MTRR","nitrous oxide","hsa-mir-5698",4
+"MTRR","folic acid","hsa-mir-5698",4
+"MTRR","verteporfin","hsa-mir-5698",4
+"NAIP","methotrexate","hsa-mir-4461",4
+"NAIP","mercaptopurine","hsa-mir-4461",4
+"NHLRC1","mercaptopurine","hsa-mir-4461",4
+"NHLRC1","azathioprine","hsa-mir-4461",4
+"NRP1","l-arginine","hsa-mir-4525",4
+"NRP1","nitric oxide","hsa-mir-4525",4
+"PDE3B","adenosine monophosphate","hsa-mir-4658",4
+"PDE3B","l-arginine","hsa-mir-4658",4
+"PDE3B","l-citrulline","hsa-mir-4658",4
+"PDE3B","nitric oxide","hsa-mir-4658",4
+"PRKDC","chlorambucil","hsa-mir-4640",4
+"PTPRG","methotrexate","hsa-mir-4640",4
+"PTPRG","mercaptopurine","hsa-mir-4640",4
+"QDPR","glutathione","hsa-mir-144",4
+"QDPR","tetrahydrobiopterin","hsa-mir-144",4
+"QDPR","l-tyrosine","hsa-mir-144",4
+"QDPR","l-phenylalanine","hsa-mir-144",4
+"RALA","lecithin","hsa-mir-6758",4
+"RALA","choline","hsa-mir-6758",4
+"RAP2B","adenosine triphosphate","hsa-mir-218-2",4
+"RAP2B","alprostadil","hsa-mir-218-2",4
+"RAP2B","epinephrine","hsa-mir-218-2",4
+"SLC46A1","methotrexate","hsa-mir-3678",4
+"SLC46A1","folic acid","hsa-mir-3678",4
+"SLC46A1","glycine","hsa-mir-3678",4
+"SLC46A1","l-serine","hsa-mir-3678",4
+"SLC9A3R1","beta blocking agents","hsa-mir-658",4
+"SLC9A3R1","adenosine triphosphate","hsa-mir-658",4
+"SLC9A3R1","l-arginine","hsa-mir-658",4
+"SLC9A3R1","nitric oxide","hsa-mir-658",4
+"SLCO1C1","estrone","hsa-mir-3917",4
+"SLCO1C1","thyroxine","hsa-mir-3917",4
+"SLCO1C1","liothyronine","hsa-mir-3917",4
+"SLCO1C1","thyroid hormones","hsa-mir-3917",4
+"SMCHD1","methotrexate","hsa-mir-1296",4
+"SMCHD1","mercaptopurine","hsa-mir-1296",4
+"TGFBR1","nitric oxide","hsa-mir-3615",4
+"TGFBR1","dexamethasone","hsa-mir-3615",4
+"TLR2","imiquimod","hsa-mir-217",4
+"TLR2","dexamethasone","hsa-mir-217",4
+"TNFRSF1B","etanercept","hsa-mir-103a-2",4
+"TNFRSF1B","infliximab","hsa-mir-103a-2",4
+"TNFRSF1B","adalimumab","hsa-mir-103a-2",4
+"TNFRSF1B","certolizumab pegol","hsa-mir-103a-2",4
+"TP53INP1","ibuprofen","hsa-mir-4640",4
+"TRPV4","adenosine triphosphate","hsa-mir-4773-2",4
+"TRPV4","l-arginine","hsa-mir-4773-2",4
+"TRPV4","l-citrulline","hsa-mir-4773-2",4
+"TRPV4","nitric oxide","hsa-mir-4773-2",4
+"VAV3","gemcitabine","hsa-mir-132",4
+"VAV3","cytarabine","hsa-mir-132",4
+"XRCC5","cisplatin","hsa-mir-450b",4
+"XRCC5","gemcitabine","hsa-mir-450b",4
+"XRCC5","tamoxifen","hsa-mir-450b",4
+"XRCC5","thalidomide","hsa-mir-450b",4
+"ACHE","anticholinesterases","hsa-mir-6865",3
+"ACHE","galantamine","hsa-mir-6865",3
+"ACHE","acetylcholine","hsa-mir-6865",3
+"ADM","citalopram","hsa-mir-581",3
+"ADM","fluoxetine","hsa-mir-581",3
+"ADM","paroxetine","hsa-mir-581",3
+"AKT2","paclitaxel","hsa-mir-10a",3
+"AKT2","glucose","hsa-mir-10a",3
+"CDK5R1","dopamine","hsa-mir-3620",3
+"CDK5R1","adenosine triphosphate","hsa-mir-3620",3
+"CDK5R1","pp2","hsa-mir-3620",3
+"CHKA","adenosine triphosphate","hsa-mir-3936",3
+"CHKA","lecithin","hsa-mir-3936",3
+"CHKA","choline","hsa-mir-3936",3
+"COL4A2","adenosine monophosphate","hsa-mir-4786",3
+"COL4A2","adenosine triphosphate","hsa-mir-4786",3
+"COL4A2","epinephrine","hsa-mir-4786",3
+"CTLA4","interferon alfacon-1","hsa-mir-4758",3
+"CTLA4","cyclosporine","hsa-mir-4758",3
+"EIF2B5","sirolimus","hsa-mir-372",3
+"ELF2","l-arginine","hsa-mir-5008",3
+"ELF2","nitric oxide","hsa-mir-5008",3
+"ELF2","choline","hsa-mir-5008",3
+"FGF9","methotrexate","hsa-mir-483",3
+"FGF9","nicotine","hsa-mir-483",3
+"FGF9","mercaptopurine","hsa-mir-483",3
+"FNBP1L","l-glutamine","hsa-mir-744",3
+"FNBP1L","l-leucine","hsa-mir-744",3
+"FRS2","l-arginine","hsa-mir-766",3
+"FRS2","nitric oxide","hsa-mir-766",3
+"GGT5","glutathione","hsa-mir-372",3
+"GGT5","glycine","hsa-mir-372",3
+"GIT1","cytarabine","hsa-mir-579",3
+"GNG2","l-arginine","hsa-mir-624",3
+"GNG2","nitric oxide","hsa-mir-624",3
+"GSC","isotretinoin","hsa-mir-369",3
+"GYS1","thiazolidinediones","hsa-mir-146a",3
+"GYS1","glucose","hsa-mir-146a",3
+"HHEX","methotrexate","hsa-mir-501",3
+"HHEX","troglitazone","hsa-mir-501",3
+"HHEX","mercaptopurine","hsa-mir-501",3
+"HRH4","histamine phosphate","hsa-mir-146a",3
+"HTR1B","antidepressants","hsa-mir-6716",3
+"HTR1B","citalopram","hsa-mir-6716",3
+"HTR1B","heroin","hsa-mir-6716",3
+"HTR4","tegaserod","hsa-mir-4758",3
+"IL12RB2","l-arginine","hsa-mir-548d-2",3
+"IL12RB2","l-citrulline","hsa-mir-548d-2",3
+"IL12RB2","nitric oxide","hsa-mir-548d-2",3
+"INSR","sirolimus","hsa-mir-548j",3
+"INSR","glucose","hsa-mir-548j",3
+"INSR","prednisolone","hsa-mir-548j",3
+"KHDRBS3","nicotine","hsa-mir-4715",3
+"KHDRBS3","lamivudine","hsa-mir-4715",3
+"LIF","cyclosporine","hsa-mir-369",3
+"LIF","tacrolimus","hsa-mir-369",3
+"LRAT","lecithin","hsa-mir-98",3
+"MAP3K7","imiquimod","hsa-mir-105-2",3
+"MAP3K7","imiquimod","hsa-mir-6820",3
+"MAP3K7","dexamethasone","hsa-mir-105-2",3
+"MAP3K7","dexamethasone","hsa-mir-6820",3
+"MAPK4","sorafenib","hsa-mir-382",3
+"MED1","tretinoin","hsa-mir-6820",3
+"MICA","methotrexate","hsa-mir-26a-2",3
+"MICA","mercaptopurine","hsa-mir-26a-2",3
+"MYD88","imiquimod","hsa-mir-21",3
+"MYD88","dexamethasone","hsa-mir-21",3
+"NEDD4","l-arginine","hsa-mir-424",3
+"NEDD4","nitric oxide","hsa-mir-424",3
+"NEDD4","glucocorticoids","hsa-mir-424",3
+"NFKBIA","glutathione","hsa-mir-421",3
+"NFKBIA","nifedipine","hsa-mir-421",3
+"NTRK2","ethanol","hsa-mir-1254-2",3
+"NTRK2","nicotine","hsa-mir-1254-2",3
+"NTRK2","lithium","hsa-mir-1254-2",3
+"PCSK9","fluvastatin","hsa-mir-550a-2",3
+"PCSK9","hmg coa reductase inhibitors","hsa-mir-550a-2",3
+"PCSK9","metoprolol","hsa-mir-550a-2",3
+"PDE10A","desipramine","hsa-mir-6511b-1",3
+"PDE10A","fluoxetine","hsa-mir-6511b-1",3
+"PDE8A","desipramine","hsa-mir-579",3
+"PDE8A","fluoxetine","hsa-mir-579",3
+"PDE8B","fluoxetine","hsa-mir-532",3
+"POLA1","ibuprofen","hsa-mir-202",3
+"PPM1H","selective beta-2-adrenoreceptor agonists","hsa-mir-382",3
+"PPM1H","salbutamol","hsa-mir-382",3
+"PPP2CA","sirolimus","hsa-mir-202",3
+"PRDM2","methotrexate","hsa-mir-532",3
+"PRDM2","mercaptopurine","hsa-mir-532",3
+"PTGDR","l-arginine","hsa-mir-32",3
+"PTGDR","nitric oxide","hsa-mir-32",3
+"PTGDR","niacin","hsa-mir-32",3
+"PTPRS","cytarabine","hsa-mir-421",3
+"RAB11A","l-arginine","hsa-mir-659",3
+"RAB11A","nitric oxide","hsa-mir-659",3
+"RAB11A","choline","hsa-mir-659",3
+"RARB","tretinoin","hsa-mir-202",3
+"RFC1","methotrexate","hsa-mir-744",3
+"RNASE6","methotrexate","hsa-mir-3605",3
+"RNASE6","mercaptopurine","hsa-mir-3605",3
+"RUNX2","teriparatide","hsa-mir-3605",3
+"S1PR1","l-arginine","hsa-mir-379",3
+"S1PR1","nitric oxide","hsa-mir-379",3
+"SCN1A","carbamazepine","hsa-mir-98",3
+"SCN1A","phenytoin","hsa-mir-98",3
+"SERPINE1","citalopram","hsa-mir-7-2",3
+"SERPINE1","fluoxetine","hsa-mir-7-2",3
+"SERPINE1","epinephrine","hsa-mir-7-2",3
+"SLC5A7","choline","hsa-mir-574",3
+"SPHK2","glutathione","hsa-mir-10a",3
+"STAT6","glucocorticoids","hsa-mir-624",3
+"SV2A","levetiracetam","hsa-mir-26a-2",3
+"SYT5","biotin","hsa-mir-105-2",3
+"THRB","levothyroxine","hsa-mir-766",3
+"TOP2B","cisplatin","hsa-mir-6802",3
+"TOP2B","doxorubicin","hsa-mir-6802",3
+"TOP2B","etoposide","hsa-mir-6802",3
+"TXNIP","prednisolone","hsa-mir-379",3
+"UST","nortriptyline","hsa-mir-21",3
+"VAMP3","choline","hsa-mir-6511b-1",3
+"VLDLR","nicotine","hsa-mir-574",3
+"VLDLR","pp2","hsa-mir-574",3
+"YAP1","cisplatin","hsa-mir-4715",3
+"ADRB3","olanzapine","hsa-mir-4664",2
+"ALDH4A1","l-proline","hsa-mir-550a-1",2
+"ALDH4A1","l-proline","hsa-mir-6501",2
+"ASS1","l-arginine","hsa-mir-6780a",2
+"ASS1","urea","hsa-mir-6780a",2
+"BIN1","adenosine triphosphate","hsa-mir-33b",2
+"BIN1","choline","hsa-mir-33b",2
+"CACNG2","lithium","hsa-mir-550a-1",2
+"CALR","cyclosporine","hsa-mir-5586",2
+"CALR","tacrolimus","hsa-mir-5586",2
+"CAP1","progesterone","hsa-mir-4772",2
+"CAP1","adenosine triphosphate","hsa-mir-4772",2
+"CAT","doxorubicin","hsa-mir-4680",2
+"CAT","anthracyclines and related substances","hsa-mir-4680",2
+"CCNE1","lapatinib","hsa-mir-218-1",2
+"CCNE1","ibuprofen","hsa-mir-218-1",2
+"CDC25A","ibuprofen","hsa-mir-15b",2
+"CDC25A","3,3'-diindolylmethane","hsa-mir-15b",2
+"CDK4","cisplatin","hsa-mir-433",2
+"CDK4","cisplatin","hsa-mir-133b",2
+"CDK4","doxorubicin","hsa-mir-433",2
+"CDK4","doxorubicin","hsa-mir-133b",2
+"CSF1R","imatinib","hsa-mir-449b",2
+"CSF1R","sunitinib","hsa-mir-449b",2
+"CTNNA1","choline","hsa-mir-512-1",2
+"CYB5A","glutathione","hsa-mir-1271",2
+"CYB5A","vitamin c","hsa-mir-1271",2
+"DHODH","leflunomide","hsa-mir-3130-2",2
+"DHODH","l-glutamine","hsa-mir-3130-2",2
+"DPYSL2","methotrexate","hsa-mir-195",2
+"DPYSL2","mercaptopurine","hsa-mir-195",2
+"EFNB2","methotrexate","hsa-mir-937",2
+"EFNB2","methotrexate","hsa-mir-342",2
+"EFNB2","mercaptopurine","hsa-mir-937",2
+"EFNB2","mercaptopurine","hsa-mir-342",2
+"ELMO1","methotrexate","hsa-mir-106b",2
+"ELMO1","etoposide","hsa-mir-106b",2
+"ETV5","methotrexate","hsa-mir-580",2
+"ETV5","mercaptopurine","hsa-mir-580",2
+"FEN1","ibuprofen","hsa-let-7d",2
+"FLNA","methotrexate","hsa-mir-1976",2
+"FLNA","methotrexate","hsa-mir-4636",2
+"FLNA","mercaptopurine","hsa-mir-1976",2
+"FLNA","mercaptopurine","hsa-mir-4636",2
+"FRK","methotrexate","hsa-mir-4755",2
+"FRK","mercaptopurine","hsa-mir-4755",2
+"FUS","cisplatin","hsa-mir-625",2
+"FUS","gefitinib","hsa-mir-625",2
+"GALNT7","methotrexate","hsa-mir-4482",2
+"GALNT7","mercaptopurine","hsa-mir-4482",2
+"GDF11","methotrexate","hsa-mir-6508",2
+"GDF11","mercaptopurine","hsa-mir-6508",2
+"GNG10","methotrexate","hsa-let-7g",2
+"GNG10","mercaptopurine","hsa-let-7g",2
+"GPR137B","methotrexate","hsa-let-7c",2
+"GPR137B","mercaptopurine","hsa-let-7c",2
+"GRM1","dopamine","hsa-mir-212",2
+"GRM1","adenosine triphosphate","hsa-mir-212",2
+"HDAC4","methotrexate","hsa-mir-616",2
+"HDAC4","5-fluoroucil","hsa-mir-616",2
+"HDAC5","cyclosporine","hsa-mir-545",2
+"HDAC5","tacrolimus","hsa-mir-545",2
+"HIC2","methotrexate","hsa-mir-7705",2
+"HIC2","methotrexate","hsa-mir-222",2
+"HIC2","mercaptopurine","hsa-mir-7705",2
+"HIC2","mercaptopurine","hsa-mir-222",2
+"HSPA1A","carbamazepine","hsa-mir-3616",2
+"IRF2BP2","cisplatin","hsa-mir-499a",2
+"IRS2","prednisolone","hsa-mir-190b",2
+"IRS2","exenatide","hsa-mir-190b",2
+"IVD","biotin","hsa-mir-466",2
+"IVD","l-leucine","hsa-mir-466",2
+"KITLG","imatinib","hsa-mir-4745",2
+"KITLG","glucocorticoids","hsa-mir-4745",2
+"LEPR","risperidone","hsa-mir-642a",2
+"LEPR","risperidone","hsa-mir-506",2
+"LEPR","hmg coa reductase inhibitors","hsa-mir-642a",2
+"LEPR","hmg coa reductase inhibitors","hsa-mir-506",2
+"LIF","cyclosporine","hsa-mir-577",2
+"LIF","tacrolimus","hsa-mir-577",2
+"MAPK10","sorafenib","hsa-mir-6501",2
+"MAPK4","sorafenib","hsa-mir-30e",2
+"MTHFD2","methotrexate","hsa-mir-652",2
+"MTHFD2","folic acid","hsa-mir-652",2
+"NAGS","l-arginine","hsa-mir-4699",2
+"NAGS","urea","hsa-mir-4699",2
+"NAMPT","rosiglitazone","hsa-mir-6762",2
+"NAMPT","niacin","hsa-mir-6762",2
+"NDUFS4","metformin","hsa-mir-6513",2
+"NMT1","methotrexate","hsa-mir-5695",2
+"NMT1","mercaptopurine","hsa-mir-5695",2
+"NRG1","antidepressants","hsa-mir-20b",2
+"NRG1","nitric oxide","hsa-mir-20b",2
+"PDE10A","desipramine","hsa-mir-4726",2
+"PDE10A","fluoxetine","hsa-mir-4726",2
+"PHB","paclitaxel","hsa-mir-381",2
+"PHLPP2","topotecan","hsa-mir-499a",2
+"PPCS","l-cysteine","hsa-mir-30e",2
+"PRKCQ","methotrexate","hsa-mir-6821",2
+"PRKCQ","mercaptopurine","hsa-mir-6821",2
+"PSMB8","interferon alfacon-1","hsa-mir-155",2
+"PSMB8","interferon beta-1b","hsa-mir-155",2
+"RFC1","methotrexate","hsa-mir-6516",2
+"S1PR1","l-arginine","hsa-mir-5187",2
+"S1PR1","nitric oxide","hsa-mir-5187",2
+"SFRP4","letrozole","hsa-mir-3616",2
+"SGK3","glucocorticoids","hsa-mir-381",2
+"SLC25A32","glycine","hsa-mir-1228",2
+"SLC25A32","l-serine","hsa-mir-1228",2
+"SMAD4","dexamethasone","hsa-let-7d",2
+"SMPD1","glutathione","hsa-mir-512-1",2
+"SMS","l-methionine","hsa-mir-4733",2
+"SPRED2","imatinib","hsa-mir-6513",2
+"STK38","methotrexate","hsa-mir-708",2
+"STK38","mercaptopurine","hsa-mir-708",2
+"STRN","l-arginine","hsa-mir-374b",2
+"STRN","nitric oxide","hsa-mir-374b",2
+"SULT1C2","docetaxel","hsa-mir-328",2
+"SULT1C2","thalidomide","hsa-mir-328",2
+"TESK1","methotrexate","hsa-mir-758",2
+"TESK1","mercaptopurine","hsa-mir-758",2
+"THRA","tretinoin","hsa-mir-1254-1",2
+"THRA","levothyroxine","hsa-mir-1254-1",2
+"TLR2","imiquimod","hsa-mir-99b",2
+"TLR2","dexamethasone","hsa-mir-99b",2
+"TMED10","glatiramer acetate","hsa-mir-2110",2
+"TMED10","antiinflammatory and antirheumatic products; non-steroids","hsa-mir-2110",2
+"TOB2","methotrexate","hsa-mir-411",2
+"TOB2","mercaptopurine","hsa-mir-411",2
+"ULK3","imatinib","hsa-mir-6516",2
+"VCL","l-arginine","hsa-let-7a-1",2
+"VCL","nitric oxide","hsa-let-7a-1",2
+"WNK1","hydrochlorothiazide","hsa-mir-4733",2
+"YEATS4","hydrochlorothiazide","hsa-mir-3065",2
+"YEATS4","thiazide derivatives","hsa-mir-3065",2
+"ZFP36L2","prednisolone","hsa-mir-4664",2
+"ABHD2","lamivudine","hsa-mir-1910",1
+"ADRA2C","yohimbine","hsa-mir-508",1
+"AKAP5","tacrolimus","hsa-mir-320b-1",1
+"ARHGAP10","choline","hsa-mir-765",1
+"CACNA1E","calcium channel blockers","hsa-mir-193b",1
+"CACNG2","lithium","hsa-mir-196b",1
+"CASP7","ibuprofen","hsa-mir-548au",1
+"CAST","interferon beta-1b","hsa-mir-194-1",1
+"CD47","phospholipids","hsa-mir-29c",1
+"CDS2","methotrexate","hsa-mir-181d",1
+"CLTB","choline","hsa-mir-4645",1
+"CNTN2","immunoglobulins","hsa-mir-1914",1
+"CTSK","letrozole","hsa-mir-3152",1
+"DALRD3","mycophenolic acid","hsa-mir-425",1
+"DALRD3","mycophenolic acid","hsa-mir-191",1
+"DCLRE1B","thalidomide","hsa-mir-3607",1
+"DCN","letrozole","hsa-mir-539",1
+"DDIT4","cisplatin","hsa-mir-1538",1
+"DFFB","ibuprofen","hsa-mir-18b",1
+"DIO1","levothyroxine","hsa-mir-5703",1
+"EXOC1","choline","hsa-mir-891a",1
+"FOSL1","tacrolimus","hsa-mir-1537",1
+"GPC1","nitric oxide","hsa-mir-30d",1
+"GPNMB","letrozole","hsa-mir-28",1
+"HSPA1A","carbamazepine","hsa-mir-3136",1
+"HTR4","tegaserod","hsa-mir-200b",1
+"IRF1","xenobiotics","hsa-mir-3655",1
+"LEMD2","carbamazepine","hsa-mir-497",1
+"LEMD2","carbamazepine","hsa-mir-655",1
+"LYN","imatinib","hsa-mir-378a",1
+"MAP3K11","pp2","hsa-mir-6875",1
+"MAPK10","sorafenib","hsa-mir-3677",1
+"MAPK13","sorafenib","hsa-mir-133a-2",1
+"MAPKAPK2","glutathione","hsa-mir-654",1
+"NUBPL","iloperidone","hsa-mir-3680-1",1
+"PAPSS2","xenobiotics","hsa-mir-4701",1
+"PC","biotin","hsa-mir-4668",1
+"PDGFA","glutathione","hsa-mir-2115",1
+"PDK2","sirolimus","hsa-mir-7706",1
+"PDK2","sirolimus","hsa-mir-125b-1",1
+"PICK1","methamphetamine","hsa-mir-1292",1
+"PIP5K1A","choline","hsa-mir-1307",1
+"PLAU","epinephrine","hsa-mir-6868",1
+"POLD2","ibuprofen","hsa-mir-3622b",1
+"PPCS","l-cysteine","hsa-mir-19b-2",1
+"PPP2CA","sirolimus","hsa-mir-3922",1
+"PTPRS","cytarabine","hsa-mir-450a-1",1
+"RARA","tretinoin","hsa-let-7a-2",1
+"RHEB","sirolimus","hsa-mir-671",1
+"RHOQ","glucose","hsa-mir-767",1
+"SGK1","glucocorticoids","hsa-mir-339",1
+"SLC16A2","thyroid hormones","hsa-mir-1277",1
+"SMAD3","dexamethasone","hsa-mir-509-3",1
+"SMPD3","glutathione","hsa-mir-320a",1
+"SMPD3","glutathione","hsa-mir-4784",1
+"SMPD3","glutathione","hsa-mir-1301",1
+"STS","norelgestromin/ethinyl estradiol","hsa-mir-1224",1
+"SV2A","levetiracetam","hsa-mir-199b",1
+"TPBG","letrozole","hsa-mir-5004",1
+"ULK3","imatinib","hsa-mir-6834",1
+"ULK3","imatinib","hsa-mir-5706",1
+"ULK3","imatinib","hsa-mir-130b",1
+"YWHAQ","tacrolimus","hsa-mir-940",1
