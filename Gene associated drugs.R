@@ -37,6 +37,3 @@ basal_set <- unique(basal_set)
 
 write.table(conjuntos_basal, file = "conjuntos_basal.csv", sep = ",", 
             row.names = F, col.names = TRUE)
-
-#write.table(conjuntos_basal, file = "conjuntos_basal.txt", sep = ",", 
-            row.names = F, col.names = TRUE)
